@@ -1,0 +1,201 @@
+filters:
+  and:
+    - file.inFolder("Items")
+views:
+  - type: table
+    name: All Items
+    filters:
+      and:
+        - file.inFolder("Items")
+    order:
+      - file.name
+      - slot
+      - tier
+      - cost
+      - activation
+      - group
+    sort:
+      - property: tier
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Weapon Items
+    filters:
+      and:
+        - file.inFolder("Items")
+        - slot == "Weapon"
+    order:
+      - file.name
+      - slot
+      - tier
+      - cost
+      - activation
+      - group
+    sort:
+      - property: tier
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Vitality Items
+    filters:
+      and:
+        - file.inFolder("Items")
+        - slot == "Vitality"
+    order:
+      - file.name
+      - slot
+      - tier
+      - cost
+      - activation
+      - group
+    sort:
+      - property: tier
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Spirit Items
+    filters:
+      and:
+        - file.inFolder("Items")
+        - slot == "Spirit"
+    order:
+      - file.name
+      - slot
+      - tier
+      - cost
+      - activation
+      - group
+    sort:
+      - property: tier
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Tier 1 — 800 souls
+    filters:
+      and:
+        - file.inFolder("Items")
+        - tier == 1
+    order:
+      - file.name
+      - slot
+      - tier
+      - cost
+      - activation
+      - group
+    sort:
+      - property: tier
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Tier 2 — 1,600 souls
+    filters:
+      and:
+        - file.inFolder("Items")
+        - tier == 2
+    order:
+      - file.name
+      - slot
+      - tier
+      - cost
+      - activation
+      - group
+    sort:
+      - property: tier
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Tier 3 — 3,200 souls
+    filters:
+      and:
+        - file.inFolder("Items")
+        - tier == 3
+    order:
+      - file.name
+      - slot
+      - tier
+      - cost
+      - activation
+      - group
+    sort:
+      - property: tier
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Tier 4 — 6,400 souls
+    filters:
+      and:
+        - file.inFolder("Items")
+        - tier == 4
+    order:
+      - file.name
+      - slot
+      - tier
+      - cost
+      - activation
+      - group
+    sort:
+      - property: tier
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Active Abilities
+    filters:
+      and:
+        - file.inFolder("Items")
+        - activation != "Passive"
+    order:
+      - file.name
+      - slot
+      - tier
+      - cost
+      - activation
+      - group
+    sort:
+      - property: tier
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Upgrade sources (items you upgrade from)
+    filters:
+      and:
+        - file.inFolder("Items")
+        - upgraded_from
+    order:
+      - file.name
+      - slot
+      - tier
+    sort:
+      - property: tier
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Upgrade chains
+    filters:
+      and:
+        - file.inFolder("Items")
+        - upgrades_to
+    groupBy:
+      property: slot
+      direction: ASC
+    order:
+      - file.name
+      - slot
+      - tier
+      - cost
+      - activation
+      - group
+    sort:
+      - property: tier
+        direction: ASC
+      - property: file.name
+        direction: ASC
