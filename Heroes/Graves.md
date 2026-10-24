@@ -4,8 +4,6 @@ id: necro
 slug: graves
 status: released
 complexity: 2
-role: Spirit carry
-role_source: handbook
 gun: "Pistol"
 hero_id: 76
 icon: "[[Attachments/Heroes/Graves.png]]"
@@ -33,10 +31,9 @@ weapon_reload_time: 2.8
 weapon_bullet_velocity: 635.0
 release_date: "January 29, 2026"
 abilities: ["Jar of Dead", "Grasping Hands", "Essence Theft", "Borrowed Decree"]
-tags: [hero, released, role-spirit-carry]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/graves
 wiki: https://deadlock.wiki/Graves
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -45,7 +42,7 @@ data_updated: 2026-10-24
 
 # Graves
 
-> [!info] released · Spirit carry · Complexity 2 · Pistol
+> [!info] released · Complexity 2 · Pistol
 
 ## Stats
 

@@ -4,8 +4,6 @@ id: kelvin
 slug: kelvin
 status: released
 complexity: 2
-role: Support
-role_source: handbook
 gun: "Heavy Hitter"
 hero_id: 12
 icon: "[[Attachments/Heroes/Kelvin.png]]"
@@ -33,10 +31,9 @@ weapon_reload_time: 2.59
 weapon_bullet_velocity: 160.0
 release_date: "April 24, 2024"
 abilities: ["Frost Grenade", "Ice Path", "Arctic Beam", "Frozen Shelter"]
-tags: [hero, released, role-support]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/kelvin
 wiki: https://deadlock.wiki/Kelvin
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -45,7 +42,7 @@ data_updated: 2026-10-24
 
 # Kelvin
 
-> [!info] released · Support · Complexity 2 · Heavy Hitter
+> [!info] released · Complexity 2 · Heavy Hitter
 
 > Timely heals and splitting a teamfight properly is the difference between an easy victory or a ruinous defeat. Gliding around slowing enemies gives Kelvin's team the maneuvering advantage to make this happen.
 

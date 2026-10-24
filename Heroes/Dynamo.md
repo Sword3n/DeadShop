@@ -4,8 +4,6 @@ id: dynamo
 slug: dynamo
 status: released
 complexity: 2
-role: Initiator
-role_source: handbook
 gun: "Pistol"
 hero_id: 11
 icon: "[[Attachments/Heroes/Dynamo.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 320.0
 release_date: "April 24, 2024"
 voice_actor: "John Patrick Lowrie"
 abilities: ["Kinetic Pulse", "Quantum Entanglement", "Rejuvenating Aurora", "Singularity"]
-tags: [hero, released, role-initiator]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/dynamo
 wiki: https://deadlock.wiki/Dynamo
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Dynamo
 
-> [!info] released · Initiator · Complexity 2 · Pistol
+> [!info] released · Complexity 2 · Pistol
 
 > Dynamo keeps himself and his allies healthy while waiting for his moment. Few things can warp a team fight more than a well-coordinated use of Singularity.
 

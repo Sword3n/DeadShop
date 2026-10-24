@@ -4,8 +4,6 @@ id: mirage
 slug: mirage
 status: released
 complexity: 2
-role: Gun carry
-role_source: handbook
 gun: "Pistol"
 hero_id: 52
 icon: "[[Attachments/Heroes/Mirage.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 828.0
 release_date: "September 26, 2024"
 voice_actor: "Fareed Ward"
 abilities: ["Fire Scarabs", "Dust Devil", "Djinn's Mark", "Traveler"]
-tags: [hero, released, role-gun-carry]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/mirage
 wiki: https://deadlock.wiki/Mirage
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Mirage
 
-> [!info] released · Gun carry · Complexity 2 · Pistol
+> [!info] released · Complexity 2 · Pistol
 
 > Mirage can envelop himself in a violent tornado to catch up to enemies and lift them up. His scarabs help him sustain against multiple enemies, and he's always ready to help an ally or punish an enemy anywhere.
 

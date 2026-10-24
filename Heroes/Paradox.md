@@ -4,8 +4,6 @@ id: chrono
 slug: paradox
 status: released
 complexity: 3
-role: Disruptor
-role_source: handbook
 gun: "Burst Fire"
 hero_id: 10
 icon: "[[Attachments/Heroes/Paradox.png]]"
@@ -35,10 +33,9 @@ weapon_bullet_velocity: 525.0
 release_date: "April 24, 2024"
 voice_actor: "Elle Newlands"
 abilities: ["Pulse Grenade", "Time Wall", "Kinetic Carbine", "Paradoxical Swap"]
-tags: [hero, released, role-disruptor]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/paradox
 wiki: https://deadlock.wiki/Paradox
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -47,7 +44,7 @@ data_updated: 2026-10-24
 
 # Paradox
 
-> [!info] released · Disruptor · Complexity 3 · Burst Fire
+> [!info] released · Complexity 3 · Burst Fire
 
 > Manipulating time lets Paradox outpace an enemy in one on one combat. She thrives by subjecting her enemies to timely swaps into a waiting pulse grenade, her wall, or into the middle of her teammates.
 

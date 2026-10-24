@@ -4,8 +4,6 @@ id: lash
 slug: lash
 status: released
 complexity: 3
-role: Initiator
-role_source: handbook
 gun: "Burst Fire"
 hero_id: 31
 icon: "[[Attachments/Heroes/Lash.png]]"
@@ -35,10 +33,9 @@ weapon_bullet_velocity: 635.0
 release_date: "April 24, 2024"
 voice_actor: "Andrew Bowen"
 abilities: ["Ground Strike", "Grapple", "Flog", "Death Slam"]
-tags: [hero, released, role-initiator]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/lash
 wiki: https://deadlock.wiki/Lash
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -47,7 +44,7 @@ data_updated: 2026-10-24
 
 # Lash
 
-> [!info] released · Initiator · Complexity 3 · Burst Fire
+> [!info] released · Complexity 3 · Burst Fire
 
 > Lash gives his enemies little room to breathe, either by flying in from long distances to initiate combat with unsuspecting enemies, or pursuing said enemies when they try to run.
 

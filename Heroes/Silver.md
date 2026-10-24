@@ -4,8 +4,6 @@ id: werewolf
 slug: silver
 status: released
 complexity: 1
-role: Assassin
-role_source: handbook
 gun: "Long Range"
 hero_id: 80
 icon: "[[Attachments/Heroes/Silver.png]]"
@@ -35,10 +33,9 @@ weapon_bullet_velocity: 813.0
 release_date: "February 2, 2026"
 voice_actor: "Erica Lindbeck [ 1 ]"
 abilities: ["Slam Fire", "Boot Kick", "Entangling Bola", "Lycan Curse"]
-tags: [hero, released, role-assassin]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/silver
 wiki: https://deadlock.wiki/Silver
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -47,7 +44,7 @@ data_updated: 2026-10-24
 
 # Silver
 
-> [!info] released · Assassin · Complexity 1 · Long Range
+> [!info] released · Complexity 1 · Long Range
 
 ## Stats
 

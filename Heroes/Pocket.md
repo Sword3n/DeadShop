@@ -4,8 +4,6 @@ id: synth
 slug: pocket
 status: released
 complexity: 2
-role: Assassin
-role_source: handbook
 gun: "Spreadshot"
 hero_id: 50
 icon: "[[Attachments/Heroes/Pocket.png]]"
@@ -35,10 +33,9 @@ weapon_bullet_velocity: 559.0
 release_date: "April 24, 2024"
 voice_actor: "Greg Chun"
 abilities: ["Barrage", "Flying Cloak", "Enchanter's Satchel", "Affliction"]
-tags: [hero, released, role-assassin]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/pocket
 wiki: https://deadlock.wiki/Pocket
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -47,7 +44,7 @@ data_updated: 2026-10-24
 
 # Pocket
 
-> [!info] released · Assassin · Complexity 2 · Spreadshot
+> [!info] released · Complexity 2 · Spreadshot
 
 > With a powerful shotgun and a thin frame, Pocket relies on their ability to briefly escape into a mystic suitcase and teleport via a flying cloak in order to survive close encounters.
 

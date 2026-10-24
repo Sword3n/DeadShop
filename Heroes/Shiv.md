@@ -4,8 +4,6 @@ id: shiv
 slug: shiv
 status: released
 complexity: 3
-role: Assassin
-role_source: handbook
 gun: "Spreadshot"
 hero_id: 19
 icon: "[[Attachments/Heroes/Shiv.png]]"
@@ -35,10 +33,9 @@ weapon_bullet_velocity: 610.0
 release_date: "August 15, 2024"
 voice_actor: "Greg Chun"
 abilities: ["Serrated Knives", "Slice and Dice", "Bloodletting", "Killing Blow"]
-tags: [hero, released, role-assassin]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/shiv
 wiki: https://deadlock.wiki/Shiv
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -47,7 +44,7 @@ data_updated: 2026-10-24
 
 # Shiv
 
-> [!info] released · Assassin · Complexity 3 · Spreadshot
+> [!info] released · Complexity 3 · Spreadshot
 
 > Shiv has zero interest in playing fair, which is why he relies on hit and run tactics to weaken enemies before he dives in for the kill.
 

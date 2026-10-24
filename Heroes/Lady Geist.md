@@ -4,8 +4,6 @@ id: ghost
 slug: lady-geist
 status: released
 complexity: 2
-role: Spirit carry
-role_source: handbook
 gun: "Pistol"
 hero_id: 4
 icon: "[[Attachments/Heroes/Lady_Geist.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 828.0
 release_date: "April 24, 2024"
 voice_actor: "Abigail Marlowe"
 abilities: ["Essence Bomb", "Life Drain", "Malice", "Soul Exchange"]
-tags: [hero, released, role-spirit-carry]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/lady-geist
 wiki: https://deadlock.wiki/Lady_Geist
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Lady Geist
 
-> [!info] released · Spirit carry · Complexity 2 · Pistol
+> [!info] released · Complexity 2 · Pistol
 
 > Expending health to achieve devastating effects is the source of Lady Geist's power. When running low, she can drain the life out of her rivals.
 

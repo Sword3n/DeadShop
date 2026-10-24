@@ -4,8 +4,6 @@ id: fencer
 slug: apollo
 status: released
 complexity: 2
-role: Assassin
-role_source: handbook
 gun: "Spreadshot"
 hero_id: 77
 icon: "[[Attachments/Heroes/Apollo.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 127.0
 release_date: "February 12, 2026"
 voice_actor: "Chester Rushing"
 abilities: ["Disengaging Sigil", "Riposte", "Flawless Advance", "Itani Lo Sahn"]
-tags: [hero, released, role-assassin]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/apollo
 wiki: https://deadlock.wiki/Apollo
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Apollo
 
-> [!info] released · Assassin · Complexity 2 · Spreadshot
+> [!info] released · Complexity 2 · Spreadshot
 
 ## Stats
 

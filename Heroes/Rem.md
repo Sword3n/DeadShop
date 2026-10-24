@@ -4,8 +4,6 @@ id: familiar
 slug: rem
 status: released
 complexity: 3
-role: Support
-role_source: handbook
 hero_id: 79
 icon: "[[Attachments/Heroes/Rem.png]]"
 emaxhealth: 680.0
@@ -32,10 +30,9 @@ weapon_reload_time: 2.0
 weapon_bullet_velocity: 160.0
 release_date: "January 26, 2026"
 abilities: ["Pillow Toss", "Tag Along", "Lil Helpers", "Naptime"]
-tags: [hero, released, role-support]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/rem
 wiki: https://deadlock.wiki/Rem
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -44,7 +41,7 @@ data_updated: 2026-10-24
 
 # Rem
 
-> [!info] released · Support · Complexity 3
+> [!info] released · Complexity 3
 
 ## Stats
 

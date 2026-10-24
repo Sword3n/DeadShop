@@ -4,8 +4,6 @@ id: priest
 slug: venator
 status: released
 complexity: 2
-role: Gun carry
-role_source: handbook
 gun: "Crossbow"
 hero_id: 65
 icon: "[[Attachments/Heroes/Venator.png]]"
@@ -32,10 +30,9 @@ weapon_reload_time: 2.8
 weapon_bullet_velocity: 1590.0
 release_date: "February 5, 2026"
 abilities: ["Consecrating Grenade", "Gutshot", "Hex-Lined Snap Trap", "Ira Domini"]
-tags: [hero, released, role-gun-carry]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/venator
 wiki: https://deadlock.wiki/Venator
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -44,7 +41,7 @@ data_updated: 2026-10-24
 
 # Venator
 
-> [!info] released · Gun carry · Complexity 2 · Crossbow
+> [!info] released · Complexity 2 · Crossbow
 
 ## Stats
 

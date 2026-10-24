@@ -4,8 +4,6 @@ id: deadpack
 slug: deadman-danny
 status: released
 complexity: 2
-role: Initiator
-role_source: handbook
 hero_id: 78
 icon: "[[Attachments/Heroes/Deadman_Danny.png]]"
 emaxhealth: 730.0
@@ -32,10 +30,9 @@ weapon_reload_time: 3.2
 weapon_bullet_velocity: 178.0
 release_date: "October 13, 2026"
 abilities: ["Strix Salvo", "Chimera Mk1", "Jettison Fuel", "Close The Deal"]
-tags: [hero, released, role-initiator]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/deadman-danny
 wiki: https://deadlock.wiki/Deadman_Danny
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -44,7 +41,7 @@ data_updated: 2026-10-24
 
 # Deadman Danny
 
-> [!info] released · Initiator · Complexity 2
+> [!info] released · Complexity 2
 
 ## Stats
 

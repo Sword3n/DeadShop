@@ -4,8 +4,6 @@ id: nano
 slug: calico
 status: released
 complexity: 2
-role: Assassin
-role_source: handbook
 gun: "Spreadshot"
 hero_id: 16
 icon: "[[Attachments/Heroes/Calico.png]]"
@@ -34,10 +32,9 @@ weapon_reload_time: 2.6
 weapon_bullet_velocity: 318.0
 release_date: "January 17, 2025"
 abilities: ["Gloom Bombs", "Leaping Slash", "Ava", "Return to Shadows"]
-tags: [hero, released, role-assassin]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/calico
 wiki: https://deadlock.wiki/Calico
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Calico
 
-> [!info] released · Assassin · Complexity 2 · Spreadshot
+> [!info] released · Complexity 2 · Spreadshot
 
 > Calico uses the shadows to her advantage, weaving in and out of combat to hunt down her enemies one by one.
 

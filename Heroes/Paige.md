@@ -4,8 +4,6 @@ id: bookworm
 slug: paige
 status: released
 complexity: 1
-role: Support
-role_source: handbook
 gun: "Projectile"
 hero_id: 67
 icon: "[[Attachments/Heroes/Paige.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 43.4
 release_date: "August 25, 2025"
 voice_actor: "Jacqueline Emerson"
 abilities: ["Bookwyrm", "Plot Armor", "Captivating Read", "Rallying Charge"]
-tags: [hero, released, role-support]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/paige
 wiki: https://deadlock.wiki/Paige
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Paige
 
-> [!info] released · Support · Complexity 1 · Projectile
+> [!info] released · Complexity 1 · Projectile
 
 ## Stats
 

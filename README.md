@@ -13,7 +13,7 @@ Clone or download, then **Open folder as vault** in Obsidian.
 ```
 DeadShop/
 ├── Items.base          ← the item database (native Obsidian Bases, 11 views)
-├── Heroes.base         ← the hero database (native Obsidian Bases, 8 views by role)
+├── Heroes.base         ← the hero database (native Obsidian Bases)
 ├── Heroes/             ← 44 hero notes
 ├── Items/
 │   ├── Weapon/         ← 53 notes

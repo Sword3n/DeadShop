@@ -4,8 +4,6 @@ id: atlas
 slug: abrams
 status: released
 complexity: 1
-role: Tank
-role_source: handbook
 gun: "Shotgun"
 hero_id: 6
 icon: "[[Attachments/Heroes/Abrams.png]]"
@@ -35,10 +33,9 @@ weapon_bullet_velocity: 610.0
 release_date: "April 24, 2024"
 voice_actor: "Samoa Joe"
 abilities: ["Siphon Life", "Shoulder Charge", "Infernal Resilience", "Seismic Impact"]
-tags: [hero, released, role-tank]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/abrams
 wiki: https://deadlock.wiki/Abrams
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -47,7 +44,7 @@ data_updated: 2026-10-24
 
 # Abrams
 
-> [!info] released · Tank · Complexity 1 · Shotgun
+> [!info] released · Complexity 1 · Shotgun
 
 > Abrams has the bulk and sustain to lead from the front, often running into the middle of his foes and watching them scatter. If his enemies waste their fire on him, his backline teammates can lay out damage with impunity.
 

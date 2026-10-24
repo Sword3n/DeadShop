@@ -4,8 +4,6 @@ id: doorman
 slug: the-doorman
 status: released
 complexity: 1
-role: Disruptor
-role_source: handbook
 gun: "Pistol"
 hero_id: 69
 icon: "[[Attachments/Heroes/The_Doorman.png]]"
@@ -33,10 +31,9 @@ weapon_reload_time: 2.4
 weapon_bullet_velocity: 203.0
 release_date: "August 22, 2025"
 abilities: ["Call Bell", "Doorway", "Luggage Cart", "Hotel Guest"]
-tags: [hero, released, role-disruptor]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/the-doorman
 wiki: https://deadlock.wiki/The_Doorman
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -45,7 +42,7 @@ data_updated: 2026-10-24
 
 # The Doorman
 
-> [!info] released · Disruptor · Complexity 1 · Pistol
+> [!info] released · Complexity 1 · Pistol
 
 ## Stats
 

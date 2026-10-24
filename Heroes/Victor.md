@@ -4,8 +4,6 @@ id: frank
 slug: victor
 status: released
 complexity: 2
-role: Tank
-role_source: handbook
 gun: "Pistol"
 hero_id: 66
 icon: "[[Attachments/Heroes/Victor.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 203.0
 release_date: "August 29, 2025"
 voice_actor: "Jason Spisak"
 abilities: ["Pain Battery", "Jumpstart", "Aura of Suffering", "Shocking Reanimation"]
-tags: [hero, released, role-tank]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/victor
 wiki: https://deadlock.wiki/Victor
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Victor
 
-> [!info] released · Tank · Complexity 2 · Pistol
+> [!info] released · Complexity 2 · Pistol
 
 ## Stats
 

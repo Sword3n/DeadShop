@@ -4,8 +4,6 @@ id: astro
 slug: holliday
 status: released
 complexity: 3
-role: Gun carry
-role_source: handbook
 gun: "Pistol"
 hero_id: 14
 icon: "[[Attachments/Heroes/Holliday.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 1160.0
 release_date: "January 17, 2025"
 voice_actor: "Melanie Minichino"
 abilities: ["Powder Keg", "Bounce Pad", "Crackshot", "Spirit Lasso"]
-tags: [hero, released, role-gun-carry]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/holliday
 wiki: https://deadlock.wiki/Holliday
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Holliday
 
-> [!info] released · Gun carry · Complexity 3 · Pistol
+> [!info] released · Complexity 3 · Pistol
 
 > Holliday depends on her skills as a crack shot, shooting things she's bounced into the air. With good aim she can lay out heavy damage. Her movement skills let her isolate her enemies or beat a hasty retreat.
 

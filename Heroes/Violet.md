@@ -4,8 +4,6 @@ id: hero_artist
 slug: artist
 status: released
 complexity: 1
-role: Spirit carry
-role_source: handbook
 hero_id: 86
 icon: "[[Attachments/Heroes/Violet.png]]"
 emaxhealth: 710.0
@@ -31,10 +29,9 @@ weapon_bullets_per_sec: 1.54
 weapon_reload_time: 2.7
 release_date: "October 16, 2026"
 abilities: ["Living Ink", "Flow State", "Still Life", "Abstract Landscape"]
-tags: [hero, released, role-spirit-carry]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/artist
 wiki: https://deadlock.wiki/Violet
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -43,7 +40,7 @@ data_updated: 2026-10-24
 
 # Violet
 
-> [!info] released · Spirit carry · Complexity 1
+> [!info] released · Complexity 1
 
 ## Stats
 

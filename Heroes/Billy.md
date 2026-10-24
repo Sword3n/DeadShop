@@ -4,8 +4,6 @@ id: punkgoat
 slug: billy
 status: released
 complexity: 3
-role: Initiator
-role_source: handbook
 gun: "Close Range"
 hero_id: 72
 icon: "[[Attachments/Heroes/Billy.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 513.0
 release_date: "August 20, 2025"
 voice_actor: "Ari Kappatos"
 abilities: ["Bashdown", "Rising Ram", "Blasted", "Chain Gang"]
-tags: [hero, released, role-initiator]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/billy
 wiki: https://deadlock.wiki/Billy
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Billy
 
-> [!info] released · Initiator · Complexity 3 · Close Range
+> [!info] released · Complexity 3 · Close Range
 
 ## Stats
 

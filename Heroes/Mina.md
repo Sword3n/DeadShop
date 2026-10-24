@@ -4,8 +4,6 @@ id: vampirebat
 slug: mina
 status: released
 complexity: 3
-role: Spirit carry
-role_source: handbook
 gun: "Pistol"
 hero_id: 63
 icon: "[[Attachments/Heroes/Mina.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 762.0
 release_date: "August 18, 2025"
 voice_actor: "Victoria Grace"
 abilities: ["Rake", "Sanguine Retreat", "Love Bites", "Nox Nostra"]
-tags: [hero, released, role-spirit-carry]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/mina
 wiki: https://deadlock.wiki/Mina
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Mina
 
-> [!info] released · Spirit carry · Complexity 3 · Pistol
+> [!info] released · Complexity 3 · Pistol
 
 ## Stats
 

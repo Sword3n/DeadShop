@@ -4,8 +4,6 @@ id: tengu
 slug: ivy
 status: released
 complexity: 3
-role: Support
-role_source: handbook
 gun: "Rapid Fire"
 hero_id: 20
 icon: "[[Attachments/Heroes/Ivy.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 572.0
 release_date: "April 24, 2024"
 voice_actor: "Jeannie Tirado"
 abilities: ["Entangling Thorns", "Kudzu Connection", "Stone Form", "Air Drop"]
-tags: [hero, released, role-support]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/ivy
 wiki: https://deadlock.wiki/Ivy
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Ivy
 
-> [!info] released · Support · Complexity 3 · Rapid Fire
+> [!info] released · Complexity 3 · Rapid Fire
 
 > Ivy has disruptive combat tricks that slow and stun enemies. She's most effective when linking up with an ally, empowering her and her ally's guns as well as sharing heals.
 

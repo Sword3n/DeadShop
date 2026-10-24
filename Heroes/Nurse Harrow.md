@@ -4,8 +4,6 @@ id: hero_nurse
 slug: nurse
 status: released
 complexity: 1
-role: Support
-role_source: handbook
 hero_id: 87
 icon: "[[Attachments/Heroes/Nurse_Harrow.png]]"
 emaxhealth: 730.0
@@ -31,10 +29,9 @@ weapon_bullets_per_sec: 2.63
 weapon_reload_time: 1.9
 release_date: "October 20, 2026"
 abilities: ["Leech Therapy", "Wretched Vapors", "Healing Needles", "Lurking Terrors"]
-tags: [hero, released, role-support]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/nurse
 wiki: https://deadlock.wiki/Nurse_Harrow
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -43,7 +40,7 @@ data_updated: 2026-10-24
 
 # Nurse Harrow
 
-> [!info] released · Support · Complexity 1
+> [!info] released · Complexity 1
 
 ## Stats
 

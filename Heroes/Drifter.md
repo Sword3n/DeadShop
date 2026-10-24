@@ -4,8 +4,6 @@ id: drifter
 slug: drifter
 status: released
 complexity: 3
-role: Assassin
-role_source: handbook
 gun: "Spreadshot"
 hero_id: 64
 icon: "[[Attachments/Heroes/Drifter.png]]"
@@ -35,10 +33,9 @@ weapon_bullet_velocity: 508.0
 release_date: "August 27, 2025"
 voice_actor: "Matt Mercer [ 1 ]"
 abilities: ["Rend", "Stalker's Mark", "Bloodscent", "Eternal Night"]
-tags: [hero, released, role-assassin]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/drifter
 wiki: https://deadlock.wiki/Drifter
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -47,7 +44,7 @@ data_updated: 2026-10-24
 
 # Drifter
 
-> [!info] released · Assassin · Complexity 3 · Spreadshot
+> [!info] released · Complexity 3 · Spreadshot
 
 ## Stats
 

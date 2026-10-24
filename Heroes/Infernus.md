@@ -4,8 +4,6 @@ id: inferno
 slug: infernus
 status: released
 complexity: 1
-role: Initiator
-role_source: handbook
 gun: "Rapid Fire"
 hero_id: 1
 icon: "[[Attachments/Heroes/Infernus.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 660.0
 release_date: "April 24, 2024"
 voice_actor: "Phil Morris"
 abilities: ["Napalm", "Flame Dash", "Afterburn", "Concussive Combustion"]
-tags: [hero, released, role-initiator]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/infernus
 wiki: https://deadlock.wiki/Infernus
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Infernus
 
-> [!info] released · Initiator · Complexity 1 · Rapid Fire
+> [!info] released · Complexity 1 · Rapid Fire
 
 > Infernus has many ways to deal damage over time, burning foes before swooping in for the kill. Due to Infernus' blazing speed, his enemies won't be able to escape the flames.
 

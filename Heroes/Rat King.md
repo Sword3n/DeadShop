@@ -4,8 +4,6 @@ id: ratking
 slug: rat-king
 status: released
 complexity: 3
-role: Tank
-role_source: handbook
 gun: "Spreadshot"
 hero_id: 84
 icon: "[[Attachments/Heroes/Rat_King.png]]"
@@ -34,10 +32,9 @@ weapon_reload_time: 2.8
 weapon_bullet_velocity: 203.0
 release_date: "October 2, 2026"
 abilities: ["Scrap Grenade", "Rat Swarm", "Royal Pestments", "Rule, Ratannia!"]
-tags: [hero, released, role-tank]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/rat-king
 wiki: https://deadlock.wiki/Rat_King
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Rat King
 
-> [!info] released · Tank · Complexity 3 · Spreadshot
+> [!info] released · Complexity 3 · Spreadshot
 
 ## Stats
 

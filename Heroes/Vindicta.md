@@ -4,8 +4,6 @@ id: hornet
 slug: vindicta
 status: released
 complexity: 1
-role: Gun carry
-role_source: handbook
 gun: "Long Range"
 hero_id: 3
 icon: "[[Attachments/Heroes/Vindicta.png]]"
@@ -33,10 +31,9 @@ weapon_reload_time: 2.91
 weapon_bullet_velocity: 660.0
 release_date: "April 24, 2024"
 abilities: ["Stake", "Flight", "Crow Familiar", "Assassinate"]
-tags: [hero, released, role-gun-carry]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/vindicta
 wiki: https://deadlock.wiki/Vindicta
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -45,7 +42,7 @@ data_updated: 2026-10-24
 
 # Vindicta
 
-> [!info] released · Gun carry · Complexity 1 · Long Range
+> [!info] released · Complexity 1 · Long Range
 
 > Vindicta has the mobility to engage at her leisure, picking at her prey and bleeding them out slowly. Injured enemies at any distance should fear being picked off when she is on the map.
 

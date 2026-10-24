@@ -4,8 +4,6 @@ id: wraith
 slug: wraith
 status: released
 complexity: 1
-role: Gun carry
-role_source: handbook
 gun: "Rapid Fire"
 hero_id: 7
 icon: "[[Attachments/Heroes/Wraith.png]]"
@@ -33,10 +31,9 @@ weapon_reload_time: 2.82
 weapon_bullet_velocity: 572.0
 release_date: "April 24, 2024"
 abilities: ["Card Trick", "Project Mind", "Full Auto", "Telekinesis"]
-tags: [hero, released, role-gun-carry]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/wraith
 wiki: https://deadlock.wiki/Wraith
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -45,7 +42,7 @@ data_updated: 2026-10-24
 
 # Wraith
 
-> [!info] released · Gun carry · Complexity 1 · Rapid Fire
+> [!info] released · Complexity 1 · Rapid Fire
 
 > Excelling at one-on-one combat, Wraith isolates targets, eliminating them with ruthless efficiency. Then teleporting away before anyone can retaliate.
 

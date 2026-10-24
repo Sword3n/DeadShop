@@ -4,8 +4,6 @@ id: unicorn
 slug: celeste
 status: released
 complexity: 2
-role: Spirit carry
-role_source: handbook
 gun: "Burst Fire"
 hero_id: 81
 icon: "[[Attachments/Heroes/Celeste.png]]"
@@ -33,10 +31,9 @@ weapon_reload_time: 2.0
 weapon_bullet_velocity: 50.0
 release_date: "February 9, 2026"
 abilities: ["Light Eater", "Dazzling Trick", "Radiant Daggers", "Shining Wonder"]
-tags: [hero, released, role-spirit-carry]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/celeste
 wiki: https://deadlock.wiki/Celeste
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -45,7 +42,7 @@ data_updated: 2026-10-24
 
 # Celeste
 
-> [!info] released · Spirit carry · Complexity 2 · Burst Fire
+> [!info] released · Complexity 2 · Burst Fire
 
 ## Stats
 

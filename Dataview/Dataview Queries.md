@@ -49,51 +49,32 @@ GROUP BY slot
 ## Heroes, all
 
 ```dataview
-TABLE role, complexity, emaxhealth, emaxmovespeed, esprintspeed, weapon_damage_per_second, release_date
+TABLE complexity, emaxhealth, emaxmovespeed, esprintspeed, weapon_damage_per_second, release_date
 FROM "Heroes"
-SORT role ASC, complexity ASC, file.name ASC
+SORT complexity ASC, file.name ASC
 ```
 
-## Tanks and Initiators
-
-```dataview
-TABLE role, complexity, emaxhealth, ebasehealthregen, weapon_damage_per_second
-FROM "Heroes"
-WHERE role = "Tank" OR role = "Initiator"
-SORT role ASC, file.name ASC
-```
-
-## Gun carries
+## Highest weapon DPS
 
 ```dataview
 TABLE complexity, weapon_damage_per_second, weapon_bullet_damage, weapon_ammo, weapon_bullets_per_sec
 FROM "Heroes"
-WHERE role = "Gun carry"
 SORT weapon_damage_per_second DESC
 ```
 
-## Spirit carries
+## Heroes with an ultimate under 180s cooldown
 
 ```dataview
-TABLE complexity, emaxhealth, emaxmovespeed, weapon_damage_per_second
-FROM "Heroes"
-WHERE role = "Spirit carry"
-SORT file.name ASC
+TABLE cooldown, duration, range
+FROM "Database/Heroes abilities"
+WHERE type = "Ultimate" AND cooldown < 180
+SORT cooldown ASC
 ```
 
-## Supports and Disruptors
-
-```dataview
-TABLE role, complexity, emaxhealth, weapon_damage_per_second
-FROM "Heroes"
-WHERE role = "Support" OR role = "Disruptor"
-SORT role ASC, file.name ASC
-```
-
-## Count heroes by role
+## Count heroes by complexity
 
 ```dataview
 TABLE length(rows) AS Heroes
 FROM "Heroes"
-GROUP BY role
+GROUP BY complexity
 ```

@@ -64,29 +64,6 @@ The game files expose weapon stats only as **display-group references** (`EWeapo
 `EBulletDamage`, `EClipSize`, `ERoundsPerSecond` in `statDisplayGroups`) — the actual values
 are not in the data, so the wiki infoboxes are the authoritative source for those numbers.
 
-## Secondary source — roles
-
-**Deadlock Handbook** — [deadlockhandbook.com/heroes/hero-roles](https://deadlockhandbook.com/heroes/hero-roles/).
-
-Seven-role taxonomy, covering all 44 heroes:
-
-| Role | Count | Heroes |
-|---|---|---|
-| Tank | 5 | Abrams, Mo & Krill, Warden, Victor, Rat King |
-| Initiator | 6 | Bebop, Billy, Lash, Dynamo, Infernus, Deadman Danny |
-| Gun carry | 7 | Haze, Vyper, Wraith, Venator, Mirage, Vindicta, Holliday |
-| Spirit carry | 7 | Seven, Lady Geist, Grey Talon, Celeste, Mina, Graves, Violet |
-| Assassin | 7 | Calico, Pocket, Yamato, Drifter, Shiv, Silver, Apollo |
-| Support | 7 | Paige, Kelvin, McGinnis, Ivy, Rem, Viscous, Nurse Harrow |
-| Disruptor | 5 | Paradox, Sinclair, The Doorman, Baba, Solomon |
-
-Deadlock has no role queue and every hero can buy any item — roles describe playstyle, not a
-lock-in. The Handbook's *main role* is used here.
-
-> Note: Valve's own `tags` array in the game files carries role words for only two heroes
-> (Abrams = `Tank`, McGinnis = `Support`). The rest of the tags are archetype blurbs
-> (`Arsonist`, `Duelist`, `Hexer`…). Game-data tags are kept in the notes as `tags`.
-
 ## Roster — how "is this hero live?" is decided
 
 `m_bInDevelopment` / `m_bDisabled` in the game files **lag behind actual releases**, so they
@@ -144,16 +121,9 @@ the game files leave them implicit: `https://www.dexerto.com/wikis/deadlock/item
 
 ### Heroes
 
-| Role | Count |
+| Metric | Value |
 |---|---|
-| Tank | 5 |
-| Initiator | 6 |
-| Gun carry | 7 |
-| Spirit carry | 7 |
-| Assassin | 7 |
-| Support | 7 |
-| Disruptor | 5 |
-| **Total** | **44** |
+| Heroes | 44 |
 
 ## Exports
 
@@ -196,6 +166,6 @@ Parse notes:
 - hero internal id ≠ display name: `hero_artist` is **Violet**, `hero_nurse` is **Nurse Harrow**,
   `hero_baba` is **Baba**. Map via the localisation file, not by string-munging the id
 
-Hero notes live in `Heroes/` and carry structured properties (`role`, `complexity`, `emaxhealth`,
+Hero notes live in `Heroes/` and carry structured properties (`complexity`, `emaxhealth`,
 `emaxmovespeed`, `weapon_dps`, `release_date`, `abilities`, …), so `Heroes.base` views and any
 scripting work against them directly.

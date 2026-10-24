@@ -4,8 +4,6 @@ id: hero_baba
 slug: baba
 status: released
 complexity: 1
-role: Disruptor
-role_source: handbook
 hero_id: 88
 icon: "[[Attachments/Heroes/Baba.png]]"
 emaxhealth: 780.0
@@ -29,10 +27,9 @@ weapon_bullets_per_sec: 3.23
 weapon_pellets_per_shot: 3.0
 release_date: "October 6, 2026"
 abilities: ["Threadsap", "Granny Long Legs", "Baba's Brew", "Feed The Birds"]
-tags: [hero, released, role-disruptor]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/baba
 wiki: https://deadlock.wiki/Baba
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -41,7 +38,7 @@ data_updated: 2026-10-24
 
 # Baba
 
-> [!info] released · Disruptor · Complexity 1
+> [!info] released · Complexity 1
 
 ## Stats
 

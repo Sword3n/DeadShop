@@ -4,8 +4,6 @@ id: forge
 slug: mcginnis
 status: released
 complexity: 1
-role: Support
-role_source: handbook
 gun: "Heavy Artillery"
 hero_id: 8
 icon: "[[Attachments/Heroes/McGinnis.png]]"
@@ -33,10 +31,9 @@ weapon_reload_time: 3.29
 weapon_bullet_velocity: 650.0
 release_date: "April 24, 2024"
 abilities: ["Mini Turret", "Medicinal Specter", "Spectral Wall", "Heavy Barrage"]
-tags: [hero, released, role-support]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/mcginnis
 wiki: https://deadlock.wiki/McGinnis
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -45,7 +42,7 @@ data_updated: 2026-10-24
 
 # McGinnis
 
-> [!info] released · Support · Complexity 1 · Heavy Artillery
+> [!info] released · Complexity 1 · Heavy Artillery
 
 > Precise placement is everything for McGinnis, whether she's creating a killzone or splitting the enemy team. She can help keep her team running making them hard to dislodge when entrenched.
 

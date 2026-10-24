@@ -4,8 +4,6 @@ id: gigawatt
 slug: seven
 status: released
 complexity: 1
-role: Spirit carry
-role_source: handbook
 gun: "Burst Fire"
 hero_id: 2
 icon: "[[Attachments/Heroes/Seven.png]]"
@@ -35,10 +33,9 @@ weapon_bullet_velocity: 635.0
 release_date: "April 24, 2024"
 voice_actor: "Oliver Vaquer"
 abilities: ["Lightning Ball", "Static Charge", "Power Surge", "Storm Cloud"]
-tags: [hero, released, role-spirit-carry]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/seven
 wiki: https://deadlock.wiki/Seven
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -47,7 +44,7 @@ data_updated: 2026-10-24
 
 # Seven
 
-> [!info] released · Spirit carry · Complexity 1 · Burst Fire
+> [!info] released · Complexity 1 · Burst Fire
 
 > Seven thrives in a skirmish waiting for the time to strike. Then he rolls into the fight like a storm and batters his enemies with a cascade of lightning.
 

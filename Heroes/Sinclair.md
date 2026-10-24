@@ -4,8 +4,6 @@ id: magician
 slug: sinclair
 status: released
 complexity: 4
-role: Disruptor
-role_source: handbook
 gun: "Burst Fire"
 hero_id: 60
 icon: "[[Attachments/Heroes/Sinclair.png]]"
@@ -35,10 +33,9 @@ weapon_bullet_velocity: 300.0
 release_date: "January 17, 2025"
 voice_actor: "Andia Winslow (Savannah)"
 abilities: ["Vexing Bolt", "Spectral Assistant", "Rabbit Hex", "Audience Participation"]
-tags: [hero, released, role-disruptor]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/sinclair
 wiki: https://deadlock.wiki/Sinclair
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -47,7 +44,7 @@ data_updated: 2026-10-24
 
 # Sinclair
 
-> [!info] released · Disruptor · Complexity 4 · Burst Fire
+> [!info] released · Complexity 4 · Burst Fire
 
 > With the help of their unwilling assistant, <i>The Magnificent Sinclair</i> can confuse enemies with curving hexes and rapid bolts.
 

@@ -4,8 +4,6 @@ id: viscous
 slug: viscous
 status: released
 complexity: 2
-role: Support
-role_source: handbook
 gun: "Projectile"
 hero_id: 35
 icon: "[[Attachments/Heroes/Viscous.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 254.0
 release_date: "August 1, 2024"
 voice_actor: "Yuri Lowenthal"
 abilities: ["Splatter", "The Cube", "Puddle Punch", "Goo Ball"]
-tags: [hero, released, role-support]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/viscous
 wiki: https://deadlock.wiki/Viscous
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Viscous
 
-> [!info] released · Support · Complexity 2 · Projectile
+> [!info] released · Complexity 2 · Projectile
 
 > Viscous vexes his opponents through clever evasion and strategic uses of healing, enabling him to withstand the most brutal of enemy attacks.
 

@@ -4,8 +4,6 @@ id: bebop
 slug: bebop
 status: released
 complexity: 2
-role: Initiator
-role_source: handbook
 gun: "Beam Weapon"
 hero_id: 15
 icon: "[[Attachments/Heroes/Bebop.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 508.0
 release_date: "April 24, 2024"
 voice_actor: "JB Blanc"
 abilities: ["Exploding Uppercut", "Sticky Bomb", "Grapple Arm", "Hyper Beam"]
-tags: [hero, released, role-initiator]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/bebop
 wiki: https://deadlock.wiki/Bebop
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Bebop
 
-> [!info] released · Initiator · Complexity 2 · Beam Weapon
+> [!info] released · Complexity 2 · Beam Weapon
 
 > Bebop can string together his abilities in many different ways. Disrupting enemy positions, saving an ally or dealing bursts of damage. When the situation doesn't require subtlety his giant laser still solves many problems.
 

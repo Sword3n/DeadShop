@@ -4,8 +4,6 @@ id: orion
 slug: grey-talon
 status: released
 complexity: 2
-role: Spirit carry
-role_source: handbook
 gun: "Bow"
 hero_id: 17
 icon: "[[Attachments/Heroes/Grey_Talon.png]]"
@@ -33,10 +31,9 @@ weapon_reload_time: 2.35
 weapon_bullet_velocity: 495.0
 release_date: "April 24, 2024"
 abilities: ["Charged Shot", "Rain of Arrows", "Spirit Snare", "Guided Owl"]
-tags: [hero, released, role-spirit-carry]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/grey-talon
 wiki: https://deadlock.wiki/Grey_Talon
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -45,7 +42,7 @@ data_updated: 2026-10-24
 
 # Grey Talon
 
-> [!info] released · Spirit carry · Complexity 2 · Bow
+> [!info] released · Complexity 2 · Bow
 
 > A cunning predator, Grey Talon uses a combination of deadly accuracy, traps, and clever positioning to bring down the toughest of opponents.
 

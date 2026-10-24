@@ -4,8 +4,6 @@ id: yamato
 slug: yamato
 status: released
 complexity: 3
-role: Assassin
-role_source: handbook
 gun: "Spreadshot"
 hero_id: 27
 icon: "[[Attachments/Heroes/Yamato.png]]"
@@ -34,10 +32,9 @@ weapon_reload_time: 2.44
 weapon_bullet_velocity: 254.0
 release_date: "April 24, 2024"
 abilities: ["Power Slash", "Flying Slash", "Crimson Slash", "Shadow Transformation"]
-tags: [hero, released, role-assassin]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/yamato
 wiki: https://deadlock.wiki/Yamato
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Yamato
 
-> [!info] released · Assassin · Complexity 3 · Spreadshot
+> [!info] released · Complexity 3 · Spreadshot
 
 > Yamato uses precise strikes to decimate her rivals. However, such damaging attacks often will leave her exposed, so she needs to make every shot count.
 

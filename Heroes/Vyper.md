@@ -4,8 +4,6 @@ id: viper
 slug: vyper
 status: released
 complexity: 1
-role: Gun carry
-role_source: handbook
 gun: "Rapid Fire"
 hero_id: 58
 icon: "[[Attachments/Heroes/Vyper.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 412.0
 release_date: "January 17, 2025"
 voice_actor: "Stephanie Kerbis [ 1 ]"
 abilities: ["Screwjab Dagger", "Lethal Venom", "Slither", "Petrifying Bola"]
-tags: [hero, released, role-gun-carry]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/vyper
 wiki: https://deadlock.wiki/Vyper
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Vyper
 
-> [!info] released · Gun carry · Complexity 1 · Rapid Fire
+> [!info] released · Complexity 1 · Rapid Fire
 
 > With a powerful weapon (and deadly venom to match), Vyper can slither into the back of teams and assassinate high-priority targets in a storm of bullets.
 

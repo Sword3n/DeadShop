@@ -4,8 +4,6 @@ id: haze
 slug: haze
 status: released
 complexity: 1
-role: Gun carry
-role_source: handbook
 gun: "Rapid Fire"
 hero_id: 13
 icon: "[[Attachments/Heroes/Haze.png]]"
@@ -33,10 +31,9 @@ weapon_reload_time: 2.35
 weapon_bullet_velocity: 762.0
 release_date: "April 24, 2024"
 abilities: ["Sleep Dagger", "Smoke Bomb", "Fixation", "Bullet Dance"]
-tags: [hero, released, role-gun-carry]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/haze
 wiki: https://deadlock.wiki/Haze
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -45,7 +42,7 @@ data_updated: 2026-10-24
 
 # Haze
 
-> [!info] released · Gun carry · Complexity 1 · Rapid Fire
+> [!info] released · Complexity 1 · Rapid Fire
 
 > When Haze fixates on a target she can hold her own in a firefight. She prefers to create one sided exchanges, avoiding damage then picking off unsuspecting targets up close.
 

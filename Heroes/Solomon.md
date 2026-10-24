@@ -4,8 +4,6 @@ id: chessmaster
 slug: solomon
 status: released
 complexity: 1
-role: Disruptor
-role_source: handbook
 gun: "Projectile"
 hero_id: 85
 icon: "[[Attachments/Heroes/Solomon.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 356.0
 release_date: "October 9, 2026"
 voice_actor: "Carl Lumbly"
 abilities: ["Setup Bishop", "Kingside Knight", "Rook Battery", "Develop Queen"]
-tags: [hero, released, role-disruptor]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/solomon
 wiki: https://deadlock.wiki/Solomon
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Solomon
 
-> [!info] released · Disruptor · Complexity 1 · Projectile
+> [!info] released · Complexity 1 · Projectile
 
 ## Stats
 

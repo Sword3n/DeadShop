@@ -4,8 +4,6 @@ id: krill
 slug: mo-and-krill
 status: released
 complexity: 3
-role: Tank
-role_source: handbook
 gun: "Spreadshot"
 hero_id: 18
 icon: "[[Attachments/Heroes/Mo_&_Krill.png]]"
@@ -34,10 +32,9 @@ weapon_reload_time: 2.82
 weapon_bullet_velocity: 320.0
 release_date: "April 24, 2024"
 abilities: ["Scorn", "Burrow", "Sand Blast", "Combo"]
-tags: [hero, released, role-tank]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/mo-and-krill
 wiki: https://deadlock.wiki/Mo_&_Krill
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Mo & Krill
 
-> [!info] released · Tank · Complexity 3 · Spreadshot
+> [!info] released · Complexity 3 · Spreadshot
 
 > By burrowing through the ground, Mo and Krill can get the drop on almost anyone; and once they get in close the results can be devastating.
 

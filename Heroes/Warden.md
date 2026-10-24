@@ -4,8 +4,6 @@ id: warden
 slug: warden
 status: released
 complexity: 2
-role: Tank
-role_source: handbook
 gun: "Heavy Hitter"
 hero_id: 25
 icon: "[[Attachments/Heroes/Warden.png]]"
@@ -34,10 +32,9 @@ weapon_bullet_velocity: 290.0
 release_date: "April 24, 2024"
 voice_actor: "Rick D. Wasserman"
 abilities: ["Alchemical Flask", "Willpower", "Binding Word", "Last Stand"]
-tags: [hero, released, role-tank]
+tags: [hero, released]
 source: https://deadlock.io/en/heroes/warden
 wiki: https://deadlock.wiki/Warden
-roles: https://deadlockhandbook.com/heroes/hero-roles/
 game_data_build: 6801
 data_updated: 2026-10-24
 ---
@@ -46,7 +43,7 @@ data_updated: 2026-10-24
 
 # Warden
 
-> [!info] released · Tank · Complexity 2 · Heavy Hitter
+> [!info] released · Complexity 2 · Heavy Hitter
 
 > Warden leads from the front, jumping into the fray and hindering his opponents' ability to fight effectively. But what Warden considers brave, others consider reckless, and if he's not careful he can easily find himself in over his head.
 
