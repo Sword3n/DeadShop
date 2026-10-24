@@ -1,8 +1,8 @@
 # DeadShop
 
-**Deadlock shop database** — every item purchasable in the Deadlock Curiosity Shop, as an Obsidian vault.
+**Deadlock database** — every shop item and every playable hero, as an Obsidian vault.
 
-**156 items** · Weapon 53 · Vitality 54 · Spirit 49 · Tiers 1–4
+**156 items** · Weapon 53 · Vitality 54 · Spirit 49 · Tiers 1–4 · **44 heroes**
 
 Legendary (Street Brawl, tier 5) and Corrupted items are deliberately excluded — see [Sources.md](Sources.md).
 
@@ -12,7 +12,9 @@ Clone or download, then **Open folder as vault** in Obsidian.
 
 ```
 DeadShop/
-├── Items.base          ← the database (native Obsidian Bases, 11 views)
+├── Items.base          ← the item database (native Obsidian Bases, 11 views)
+├── Heroes.base         ← the hero database (native Obsidian Bases, 8 views by role)
+├── Heroes/             ← 44 hero notes
 ├── Items/
 │   ├── Weapon/         ← 53 notes
 │   ├── Vitality/       ← 54 notes

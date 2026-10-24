@@ -1,7 +1,7 @@
 # DeadShop
 
-> [!title] Deadlock shop database
-> **156 items** — the full Deadlock Curiosity Shop, without Street Brawl legendaries or Corrupted items.
+> [!title] Deadlock database
+> **156 shop items** + **44 heroes** — the full Deadlock Curiosity Shop (no Street Brawl legendaries or Corrupted items) and every playable hero with base stats, weapon stats and abilities.
 
 | | |
 |---|---|
@@ -15,6 +15,7 @@
 | **Tier 4** (6,400) | 44 |
 | **Active abilities** | 44 + 8 imbue |
 | **Passive** | 104 |
+| **Heroes** | 44 |
 
 ## Browse the database
 
@@ -23,11 +24,20 @@
 - [[Database/Weapon Items]] · [[Database/Vitality Items]] · [[Database/Spirit Items]]
 - `Data/items.csv` / `Data/items.json` — the whole table as a spreadsheet / script-ready JSON
 
+## Heroes
+
+- **[[Heroes.base]]** — the hero database (native Obsidian **Bases**, sortable / filterable)
+- [[Database/Heroes stats]] — static table of every hero with base stats + weapon stats (DPS, bullet damage, ammo, fire rate)
+- [[Database/Heroes abilities]] — every ability with cooldown, duration, range, cost, damage
+- `Data/heroes.csv` / `Data/heroes.json` — heroes as a spreadsheet / script-ready JSON
+
 ## How it's organised
 
 ```
 DeadShop/
-├── Items.base          ← the database (Bases views)
+├── Items.base          ← the item database (Bases views)
+├── Heroes.base         ← the hero database (Bases views)
+├── Heroes/             ← 44 hero notes (stats, weapon stats, abilities, playstyle, lore)
 ├── Items/
 │   ├── Weapon/         ← 53 notes
 │   ├── Vitality/       ← 54 notes
@@ -36,6 +46,7 @@ DeadShop/
 ├── Data/               ← items.csv + items.json export of the full table
 ├── Dataview/           ← optional Dataview queries
 ├── Attachments/Icons/  ← in-game item icons
+├── Attachments/Heroes/ ← 44 in-game hero portraits
 ├── Guides/             ← how to use & extend this vault
 └── Sources.md          ← where the data comes from
 ```
@@ -53,3 +64,9 @@ Every item note carries structured properties (`slot`, `tier`, `cost`, `activati
 ### All items
 
 ![[Items.base#All Items]]
+
+---
+
+### All heroes
+
+![[Heroes.base#All Heroes]]

@@ -1,83 +1,23 @@
 # Getting Started
 
-## What's in this vault
 
-A database of every item purchasable in the Deadlock Curiosity Shop (**156** items), excluding:
+## Heroes
 
-- **Legendary** items — the 17 Street Brawl exclusives (Tier 5, 9,999 souls). They never appear in a normal match.
-- **Corrupted** items — upgraded Tier 3/4 versions handed out by The Broker's exchange or the Street Brawl
-  Round 5 draft. They roll a random drawback each match, so they are not a fixed item you can buy.
+The vault also carries a **hero database** — all 44 playable heroes with base stats, weapon stats and abilities.
 
-Everything else is in: **Weapon (53)**, **Vitality (54)**, **Spirit (49)**.
+- **[[Heroes.base]]** — native Obsidian Bases (8 views: All + one per role — Tank, Initiator, Gun carry, Spirit carry, Assassin, Support, Disruptor)
+- [[Database/Heroes stats]] — static table of every hero: health, regen, move, sprint, stamina, melee, dash, DPS, bullet damage, ammo, fire rate, reload, release date
+- [[Database/Heroes abilities]] — 176 abilities with cooldown, duration, range, spirit cost, charges, damage
+- `Data/heroes.csv` / `Data/heroes.json` — heroes as a spreadsheet / script-ready JSON
 
-## Three ways to browse
+Every hero note carries structured properties (`role`, `complexity`, `emaxhealth`, `emaxmovespeed`,
+`weapon_dps`, `release_date`, `abilities`, …), so you can filter, sort and script against them
+exactly like items.
 
-| | What it needs | What you get |
-|---|---|---|
-| [[Items.base]] | nothing — Obsidian Bases is built in | sortable, filterable database tables |
-| [[Database/All Items]] | nothing | plain markdown tables, always readable |
-| [[Dataview/Dataview Queries]] | Dataview community plugin | custom queries and aggregations |
+Roles come from the [Deadlock Handbook](https://deadlockhandbook.com/heroes/hero-roles/) main-role
+taxonomy (seven classes: Tank, Initiator, Gun carry, Spirit carry, Assassin, Support, Disruptor).
+Deadlock has no role queue — roles describe playstyle, not a lock-in.
 
-## Item note anatomy
-
-Every note in `Items/` follows the same shape:
-
-```markdown
----
-name: "Extra Health"
-slot: Vitality
-tier: 1
-cost: 800
-activation: Passive
-group: "More Health"
-effect: "Grants +210 Bonus Health."
-icon: "[[Attachments/Icons/extra-health.png]]"
-upgrades_to: ["Colossus", "Fortitude"]
-upgraded_from: []
-tags: [item, vitality, tier-1]
-source: https://deadlock.io/en/items/extra-health
----
-```
-
-The body then holds the in-game stats table, the level-1 upgrade numbers, the upgrade path
-(`[[...]]` links, so you can jump along the upgrade chain) and the source links.
-
-## Filtering in Bases
-
-Open `Items.base` — it already ships with views per slot, per tier, plus *Active Abilities* and
-*Upgrade chains*. To build your own view, add one to `Items.base`:
-
-```yaml
-  - type: table
-    name: My build
-    filters:
-      and:
-        - file.inFolder("Items")
-        - slot == "Spirit"
-        - cost <= 3200
-    order:
-      - file.name
-      - tier
-      - cost
-    sort:
-      - property: tier
-        direction: ASC
-```
-
-## Filtering with Dataview
-
-```dataview
-TABLE tier, cost, activation, effect
-FROM "Items"
-WHERE slot = "Vitality" AND tier >= 3
-SORT cost DESC
-```
-
-## Extending it
-
-- **Add a hero column**: add `hero: ["Bebop", "Haze"]` to the frontmatter of the notes you track, then
-  add `hero` to the `order:` list of a view.
-- **Add notes**: drop a new `.md` file into `Items/<Slot>/` with the same frontmatter keys and it shows up
-  in every view automatically.
-- **Add a build**: create a note under `Builds/` that links items with `[[Item Name]]` — the graph view
-  will connect the whole chain.
+Release dates and weapon stats come from [deadlock.wiki](https://deadlock.wiki); stat and ability
+numbers come from Valve's raw game files. See [[Sources.md]] for the full breakdown — including why
+the roster is 44 and not the 41 the Deadlock.io API still reports.
