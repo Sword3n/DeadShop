@@ -86,7 +86,7 @@ data_updated: 2026-10-24
 
 **Signature** · `citadel_ability_chrono_pulse_grenade`
 
-Throw a grenade that begins pulsing when it lands. Each pulse expands the radius and applies 'SpiritDamage, time slow, and stacking 'DamageAmp for {s:hero_name} against the victim.
+Throw a grenade that begins pulsing when it lands. Each pulse expands the radius and applies Spirit Damage, time slow, and stacking Damage Amp for hero_name against the victim.
 
 Cooldown 32.0s · Duration 3.2s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -94,7 +94,9 @@ Cooldown 32.0s · Duration 3.2s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `citadel_ability_chrono_time_wall`
 
-Create a time warping wall that stops time for all enemy projectiles and bullets that touch it and increases the speed and damage of friendly bullets.  Enemies that touch the wall will be briefly slowed.
+Create a time warping wall that stops time for all enemy projectiles and bullets that touch it and increases the speed and damage of friendly bullets. 
+
+Enemies that touch the wall will be briefly slowed.
 
 Cooldown 25.0s · Duration 5.5s · Range 200.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -102,7 +104,9 @@ Cooldown 25.0s · Duration 5.5s · Range 200.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `citadel_ability_chrono_kinetic_carbine`
 
-Charge up a powerful shot of time energy, dealing 'SpiritDamage and applying a Time-Stop to enemies hit. The damage dealt increases with 'WeaponDamage. Move speed is increased while charging.  While in the air and charging, {g:citadel_binding:'ADS to timeslow your movement.
+Charge up a powerful shot of time energy, dealing Spirit Damage and applying a Time-Stop to enemies hit. The damage dealt increases with Weapon Damage. Move speed is increased while charging. 
+
+While in the air and charging, ADS to timeslow your movement.
 
 Cooldown 28.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -121,4 +125,6 @@ Cooldown 110.0s · Duration 0.0s · Range 25.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-Paradox.  An artifact of time, and the name of a notorious thieves' guild... one that prides themselves on constructing elaborate heists that target the most untouchable of individuals and institutions.  What does Paradox do with the countless artifacts, state secrets, and celebrity paternity tests that they have stolen?  Put it on display at pop-up museums, so that they can show the world that no one is out of Paradox's reach.<br><br>Shrouded in mystery, each member of Paradox dons a mask and takes on the organization's name.  They are everywhere.  They are nowhere.  And if they want something, they are inevitable.
+Paradox. An artifact of time, and the name of a notorious thieves' guild... one that prides themselves on constructing elaborate heists that target the most untouchable of individuals and institutions. What does Paradox do with the countless artifacts, state secrets, and celebrity paternity tests that they have stolen? Put it on display at pop-up museums, so that they can show the world that no one is out of Paradox's reach.
+
+Shrouded in mystery, each member of Paradox dons a mask and takes on the organization's name. They are everywhere. They are nowhere. And if they want something, they are inevitable.

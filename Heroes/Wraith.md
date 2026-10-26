@@ -83,7 +83,9 @@ data_updated: 2026-10-24
 
 **Signature** · `citadel_ability_card_toss`
 
-Deal weapon damage to summon cards of a random suit. Each card can be thrown, dealing damage and applying a different effect depending on its suit. Cards thrown fly towards the enemy or point under your crosshair. Alt-cast to throw first card
+Deal weapon damage to summon cards of a random suit. Each card can be thrown, dealing damage and applying a different effect depending on its suit. Cards thrown fly towards the enemy or point under your crosshair. 
+
+Alt-cast to throw first card
 
 Cooldown 0.6s · Duration 0.0s · Range 500.0 · Spirit Cost 0.0 · Charges 2.0 · Damage 45.0
 
@@ -99,7 +101,7 @@ Cooldown 46.0s · Duration 0.0s · Range 25.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `citadel_ability_wraith_rapidfire`
 
-Temporarily boost your fire rate and deal bonus 'SpiritDamage
+Temporarily boost your fire rate and deal bonus Spirit Damage
 
 Cooldown 45.0s · Duration 5.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -117,4 +119,4 @@ Cooldown 150.0s · Duration 2.25s · Range 10.0 · Spirit Cost 0.0 · Charges 0.
 
 ## Lore
 
-The cornerstone of the New York gambling scene, Wraith's organization is about as open a secret as it comes.  However, thanks to a non-trivial amount of bribes, shakedowns, and blackmail, Wraith knows that she's above the law.
+The cornerstone of the New York gambling scene, Wraith's organization is about as open a secret as it comes. However, thanks to a non-trivial amount of bribes, shakedowns, and blackmail, Wraith knows that she's above the law.

@@ -84,7 +84,8 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_blood_bomb`
 
-Sacrifice some of your health to launch a bomb that deals damage after a brief arm time.Self damage type is Spirit and can be mitigated.
+Sacrifice some of your health to launch a bomb that deals damage after a brief arm time.
+Self damage type is Spirit and can be mitigated.
 
 Cooldown 14.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 90.0
 
@@ -92,7 +93,8 @@ Cooldown 14.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Signature** · `ability_life_drain`
 
-Create a tether that drains enemy health over time and heals you. Target must be in line of sight and within max range to drain. You can shoot and use other abilities during the drain, but your move speed is reduced. {g:citadel_binding:'AltCast to give health to friendly Heroes.
+Create a tether that drains enemy health over time and heals you. Target must be in line of sight and within max range to drain. You can shoot and use other abilities during the drain, but your move speed is reduced. 
+Alt Cast to give health to friendly Heroes.
 
 Cooldown 34.0s · Duration 2.5s · Range 18.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -119,4 +121,8 @@ Cooldown 220.0s · Duration 0.25s · Range 5.5 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-Once, Lady Jeanne Geist was the toast of the town.  But as time passed and her beauty faded she found herself further and further from her glory days in High Society until finally she was nothing more than a frail woman in a nursing home, telling stories of a glorious past.  And that's when Oathkeeper revealed himself.  A powerful spirit from another plane, Oathkeeper offered her a path to reclaim her past glories... he could restore her youth; all she had to do was drain the essence of the living to sustain herself. <br><br>Geist was torn.  Obviously murder was ghoulish business, and undoubtedly Oathkeeper was not an entity that could be trusted... but still, the thought of having a second chance of reliving her youth was too good to pass up.  And so she concocted a plan: after making a pact with Oathkeeper she would bind and ward him, limiting his influence and pull over her.  Oathkeeper would still get fed; but on her terms, not his.<br><br>However, as years have turned to decades; the strength of the Ward has weakened, and Oathkeeper hungers more than he ever has in the past...
+Once, Lady Jeanne Geist was the toast of the town. But as time passed and her beauty faded she found herself further and further from her glory days in High Society until finally she was nothing more than a frail woman in a nursing home, telling stories of a glorious past. And that's when Oathkeeper revealed himself. A powerful spirit from another plane, Oathkeeper offered her a path to reclaim her past glories... he could restore her youth; all she had to do was drain the essence of the living to sustain herself. 
+
+Geist was torn. Obviously murder was ghoulish business, and undoubtedly Oathkeeper was not an entity that could be trusted... but still, the thought of having a second chance of reliving her youth was too good to pass up. And so she concocted a plan: after making a pact with Oathkeeper she would bind and ward him, limiting his influence and pull over her. Oathkeeper would still get fed; but on her terms, not his.
+
+However, as years have turned to decades; the strength of the Ward has weakened, and Oathkeeper hungers more than he ever has in the past...

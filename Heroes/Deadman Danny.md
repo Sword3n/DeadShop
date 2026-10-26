@@ -80,7 +80,11 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_deadpack_chargeblast`
 
-Launch a salvo of spirit missiles that lodge into the ground along a line. The missiles explode after a delay or upon detecting an enemy, dealing 'SpiritDamage and marking the target.Shooting a marked enemy with a charged shot consumes a mark to deal 'BonusSpiritDamage and apply a fading 'Slow.Hold and drag to select the angle.
+Launch a salvo of spirit missiles that lodge into the ground along a line. The missiles explode after a delay or upon detecting an enemy, dealing Spirit Damage and marking the target.
+
+Shooting a marked enemy with a charged shot consumes a mark to deal Bonus Spirit Damage and apply a fading Slow.
+
+Hold and drag to select the angle.
 
 Cooldown 25.0s · Duration 0.0s · Range 35.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 27.0
 
@@ -88,7 +92,13 @@ Cooldown 25.0s · Duration 0.0s · Range 35.0 · Spirit Cost 0.0 · Charges 0.0 
 
 **Signature** · `ability_deadpack_rocketeer`
 
-Hold {g:citadel_binding:'Mantle to fly, building up heat. When max heat is reached, your jetpack will begin to overheat.Overheating: After a short delay, dive to the ground. Upon impact, create an explosion that deals damage and launches you and nearby enemies. If no hero is hit, you stun yourself. Press {g:citadel_binding:'Ability2 to dive early.Cooling Down: After overheating, the jetpack cannot be used until it fully cools down.Slows affect you while airborne. You always explode on death.
+Hold Mantle to fly, building up heat. When max heat is reached, your jetpack will begin to overheat.
+
+Overheating: After a short delay, dive to the ground. Upon impact, create an explosion that deals damage and launches you and nearby enemies. If no hero is hit, you stun yourself. Press Ability2 to dive early.
+
+Cooling Down: After overheating, the jetpack cannot be used until it fully cools down.
+
+Slows affect you while airborne. You always explode on death.
 
 Cooldown 21.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -96,7 +106,9 @@ Cooldown 21.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `ability_deadpack_flamethrower`
 
-Spray fuel dealing 'WeaponDPS and shredding 'BulletResist, building up to a huge backblast that deals 'SpiritDamage and knocks you backwards.Vents the jetpack when dealing damage.
+Spray fuel dealing Weapon DPS and shredding Bullet Resist, building up to a huge backblast that deals Spirit Damage and knocks you backwards.
+
+Vents the jetpack when dealing damage.
 
 Cooldown 22.0s · Duration 2.0s · Range 22.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -104,7 +116,9 @@ Cooldown 22.0s · Duration 2.0s · Range 22.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `ability_deadpack_ultimate`
 
-Grab an enemy and give them a hands-on demonstration, flying high into the air before crashing back to the ground.You and the participant take 'SpiritDPS while falling and 'SpiritDamage upon impact. Damage is increased to enemies under {s:LowHealthEnemyThresholdPct}% health.
+Grab an enemy and give them a hands-on demonstration, flying high into the air before crashing back to the ground.
+
+You and the participant take Spirit DPS while falling and Spirit Damage upon impact. Damage is increased to enemies under Low Health Enemy Threshold Pct % health.
 
 Cooldown 135.0s · Duration 0.0s · Range 10.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 70.0
 
@@ -114,4 +128,10 @@ Cooldown 135.0s · Duration 0.0s · Range 10.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-"Ladies and Gentlemen, I'm going to tell you a shocking secret: at Fairfax Industries we know nothing about safety. Now let me tell you something even MORE shocking... that's a good thing! Now in my tenure here I have been shot, stabbed, impaled, defenestrated, blown up, atomized, and decapitated-not once. not twice. not thrice. but quice. That's right, my head has been cut off enough times that I had to use a made up word to quantify it.<br><br>But I put myself through figurative and sometimes literal hell because it's not enough to THINK about how things go wrong, we need to KNOW how things go wrong.<br><br>Now the demonstration you are about to witness is extremely dangerous. So sit back. Put on your safety googles. And bear witness to the miracle of flight courtesy of Fairfax Industries, and the Chimera Mark 1."<br><br><span class="italics">- This transcription of Danny's opening remarks at The Military Technology Expo has been provided by Fairfax Industries</span>
+"Ladies and Gentlemen, I'm going to tell you a shocking secret: at Fairfax Industries we know nothing about safety. Now let me tell you something even MORE shocking... that's a good thing! Now in my tenure here I have been shot, stabbed, impaled, defenestrated, blown up, atomized, and decapitated-not once. not twice. not thrice. but quice. That's right, my head has been cut off enough times that I had to use a made up word to quantify it.
+
+But I put myself through figurative and sometimes literal hell because it's not enough to THINK about how things go wrong, we need to KNOW how things go wrong.
+
+Now the demonstration you are about to witness is extremely dangerous. So sit back. Put on your safety googles. And bear witness to the miracle of flight courtesy of Fairfax Industries, and the Chimera Mark 1."
+
+- This transcription of Danny's opening remarks at The Military Technology Expo has been provided by Fairfax Industries

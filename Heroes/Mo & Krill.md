@@ -93,7 +93,9 @@ Cooldown 13.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Signature** · `ability_burrow`
 
-Burrow underground, moving faster, and gaining spirit and bullet armor. Damage from enemy heroes will reduce the speed bonus. When you jump out, deal 'SpiritDamage, 'Slow, and 'KnockUp.
+Burrow underground, moving faster, and gaining spirit and bullet armor. Damage from enemy heroes will reduce the speed bonus. 
+
+When you jump out, deal Spirit Damage, Slow, and Knock Up.
 
 Cooldown 40.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 0.0
 
@@ -119,4 +121,4 @@ Cooldown 150.0s · Duration 0.0s · Range 4.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-Mo and Krill are members of The Tunnel Rats, a group that help facilitate illicit trade and commerce between the boroughs thanks to a network of underground tunnels.  But while most denizens of the New York underworld respect the work The Rats do, every once in a while a gang tries to exploit the tunnel system for personal vendettas...that's when Mo and Krill step in and remind the city what happens to those who disrespect their hospitality.
+Mo and Krill are members of The Tunnel Rats, a group that help facilitate illicit trade and commerce between the boroughs thanks to a network of underground tunnels. But while most denizens of the New York underworld respect the work The Rats do, every once in a while a gang tries to exploit the tunnel system for personal vendettas... that's when Mo and Krill step in and remind the city what happens to those who disrespect their hospitality.

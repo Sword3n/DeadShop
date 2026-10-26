@@ -82,7 +82,9 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_punkgoat_ult`
 
-Slam your bat into the ground, 'Pulling enemies down and dealing 'MeleeDamage.The slam creates a shockwave that deals 'SpiritDamage and applies 'KnockUp.
+Slam your bat into the ground, Pulling enemies down and dealing Melee Damage.
+
+The slam creates a shockwave that deals Spirit Damage and applies Knock Up.
 
 Cooldown 35.0s · Duration 0.0s · Range 4.0 · Spirit Cost 0.0 · Charges 1.0 · Damage 35.0
 
@@ -90,7 +92,9 @@ Cooldown 35.0s · Duration 0.0s · Range 4.0 · Spirit Cost 0.0 · Charges 1.0 �
 
 **Signature** · `ability_punkgoat_goatflip`
 
-Charge head-first into an enemy and send them into the air along with Billy.Cooldown reduced by 50% on impact.
+Charge head-first into an enemy and send them into the air along with Billy.
+
+Cooldown reduced by 50% on impact.
 
 Cooldown 32.0s · Duration 0.3s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 40.0
 
@@ -98,7 +102,7 @@ Cooldown 32.0s · Duration 0.3s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Signature** · `ability_punkgoat_blasted`
 
-Passive: Melee hits restore ammo and inflict wrecked on the victim for {s:BulletDamageAmpDuration}s.
+Passive: Melee hits restore ammo and inflict wrecked on the victim for Bullet Damage Amp Duration s.
 
 Cooldown 27.0s · Duration 8.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -106,7 +110,11 @@ Cooldown 27.0s · Duration 8.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `ability_punkgoat_tether`
 
-Chain nearby enemies to you. Chained enemies cannot use movement abilities and receive a heavy 'Slow when they pull on the chain.After a delay, yank everyone towards Billy and deal 'SpiritDamage.The chain breaks if you lose line of sight for a short while.
+Chain nearby enemies to you. Chained enemies cannot use movement abilities and receive a heavy Slow when they pull on the chain.
+
+After a delay, yank everyone towards Billy and deal Spirit Damage.
+
+The chain breaks if you lose line of sight for a short while.
 
 Cooldown 175.0s · Duration 2.8s · Range 12.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 120.0
 
@@ -117,4 +125,6 @@ Cooldown 175.0s · Duration 2.8s · Range 12.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-Billy is a white hot ball of rage, furious at the very notion of...something.  Maybe it's the cops. Maybe it's magic regulations. Maybe it's the service at the gyro place downtown.  (Not the good one.  The other one.)<br><br>Don't ask him how he got the goat head.
+Billy is a white hot ball of rage, furious at the very notion of... something. Maybe it's the cops. Maybe it's magic regulations. Maybe it's the service at the gyro place downtown. (Not the good one. The other one.)
+
+Don't ask him how he got the goat head.

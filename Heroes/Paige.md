@@ -82,7 +82,7 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_bookworm_dragonfire`
 
-Conjure a dragon that appears at the target location before flying forward, dealing 'SpiritDamage and leaving a burning path in its trail.
+Conjure a dragon that appears at the target location before flying forward, dealing Spirit Damage and leaving a burning path in its trail.
 
 Cooldown 33.0s · Duration 5.0s · Range 0.0 · Spirit Cost 0.0 · Charges 1.0 · Damage 60.0
 
@@ -90,7 +90,7 @@ Cooldown 33.0s · Duration 5.0s · Range 0.0 · Spirit Cost 0.0 · Charges 1.0 �
 
 **Signature** · `ability_bookworm_knightbarrier`
 
-Grant an ally a 'CombatBarrier. While the barrier holds, they gain 'BonusWeaponDamage.
+Grant an ally a Combat Barrier. While the barrier holds, they gain Bonus Weapon Damage.
 
 Cooldown 28.0s · Duration 5.0s · Range 35.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 0.0
 
@@ -98,7 +98,9 @@ Cooldown 28.0s · Duration 5.0s · Range 35.0 · Spirit Cost 0.0 · Charges 0.0 
 
 **Signature** · `ability_bookworm_aoemagic`
 
-Target an area with latent magic, applying 'Slow. The magic detonates after a delay, dealing 'SpiritDamage and applying 'Immobilize.
+Target an area with latent magic, applying Slow. 
+
+The magic detonates after a delay, dealing Spirit Damage and applying Immobilize.
 
 Cooldown 30.0s · Duration 0.0s · Range 30.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 90.0
 
@@ -106,7 +108,9 @@ Cooldown 30.0s · Duration 0.0s · Range 30.0 · Spirit Cost 0.0 · Charges 0.0 
 
 **Ultimate** · `ability_bookworm_knightcharge`
 
-Release a wave of spectral knights and steeds that charge across the entire city, 'Healing allies and dealing 'SpiritDamage to enemies. The strength of the 'Heal and 'SpiritDamage is amplified as the knights travel further.
+Release a wave of spectral knights and steeds that charge across the entire city, Healing allies and dealing Spirit Damage to enemies. 
+
+The strength of the Heal and Spirit Damage is amplified as the knights travel further.
 
 Cooldown 210.0s · Duration 13.0s · Range 600.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 125.0
 
@@ -117,10 +121,10 @@ Cooldown 210.0s · Duration 13.0s · Range 600.0 · Spirit Cost 0.0 · Charges 0
 
 ## Lore
 
-The daughter of a rare book dealer, Paige grew up in a loving home that prioritized kindness, magic, and storytelling.  But while Paige took naturally to her parents' values, her little brother Bryce did not.
+The daughter of a rare book dealer, Paige grew up in a loving home that prioritized kindness, magic, and storytelling. But while Paige took naturally to her parents' values, her little brother Bryce did not.
 
-A rebellious teen, Bryce resented not only his family’s saccharine attitude, but also their refusal to let him dabble in magics that they deemed too dangerous.  Paige tried everything she could think of to keep him out of trouble, but like most teenagers, the more his big sister tried to tell him what was best for him, the more he turned away.
+A rebellious teen, Bryce resented not only his family’s saccharine attitude, but also their refusal to let him dabble in magics that they deemed too dangerous. Paige tried everything she could think of to keep him out of trouble, but like most teenagers, the more his big sister tried to tell him what was best for him, the more he turned away.
 
-Paige doesn't know what Bryce did to get kicked out of the house...just that she came home from the library to find her brother gone and her parents crying.
+Paige doesn't know what Bryce did to get kicked out of the house... just that she came home from the library to find her brother gone and her parents crying.
 
-Days turned to weeks, to months, to years.  Paige grew to become a talented bibliomancer, making a living as a storyteller reading at libraries across the five boroughs; and while her parents have remained silent about what happened with Bryce, Paige's obsession with finding him has only grown.  She will discover what happened to her brother... and no man or god is going to stand in her way.
+Days turned to weeks, to months, to years. Paige grew to become a talented bibliomancer, making a living as a storyteller reading at libraries across the five boroughs; and while her parents have remained silent about what happened with Bryce, Paige's obsession with finding him has only grown. She will discover what happened to her brother... and no man or god is going to stand in her way.

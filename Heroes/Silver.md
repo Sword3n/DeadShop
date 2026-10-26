@@ -84,7 +84,9 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_werewolf_unloadgun`
 
-Instantly reload your gun. You gain 'BonusFireRate and deal bonus 'WeaponDamage based on the target's health for a limited number of shots, but suffer from reduced accuracy.Deals bonus Weapon Damage against troopers and neutrals.
+Instantly reload your gun. You gain Bonus Fire Rate and deal bonus Weapon Damage based on the target's health for a limited number of shots, but suffer from reduced accuracy.
+
+Deals bonus Weapon Damage against troopers and neutrals.
 
 Cooldown 25.0s · Duration 5.0s · Range 1.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 40.0
 
@@ -98,7 +100,7 @@ Cooldown 21.0s · Duration 0.0s · Range 10.6 · Spirit Cost 0.0 · Charges 0.0 
 
 **Signature** · `ability_werewolf_netshot`
 
-Throw a bola, dealing 'SpiritDamage, applying 'Slow and preventing movement abilities or stamina.
+Throw a bola, dealing Spirit Damage, applying Slow and preventing movement abilities or stamina.
 
 Cooldown 23.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 40.0
 
@@ -106,7 +108,9 @@ Cooldown 23.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Ultimate** · `ability_werewolf_transformation`
 
-Passive: Dealing damage generates bloodlust, increased at low health. At max bloodlust, you automatically cast Lycan Curse.Active: Instantly transform, gaining increased 'MaxHealth, and stacking 'FireRate on enemy heroes, and replacing your abilities and weapon with their ferocious versions.
+Passive: Dealing damage generates bloodlust, increased at low health. At max bloodlust, you automatically cast Lycan Curse.
+
+Active: Instantly transform, gaining increased Max Health, and stacking Fire Rate on enemy heroes, and replacing your abilities and weapon with their ferocious versions.
 
 Cooldown 60.0s · Duration 15.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -117,4 +121,4 @@ Cooldown 60.0s · Duration 15.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-Lilah Silver is a mess.  She drinks too much, she smokes too much, and the less is said about her personal life the better.   But despite Silver's flaws she has managed to carve out a career as a successful bounty hunter, and while she would like to think that her successes are solely because she has incredible intuition, the fact that she's a werewolf doesn't hurt.
+Lilah Silver is a mess. She drinks too much, she smokes too much, and the less is said about her personal life the better. But despite Silver's flaws she has managed to carve out a career as a successful bounty hunter, and while she would like to think that her successes are solely because she has incredible intuition, the fact that she's a werewolf doesn't hurt.

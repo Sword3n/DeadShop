@@ -82,7 +82,11 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_chessmaster_throwbishop`
 
-Create a bishop that remains in place indefinitely. Move ({g:citadel_binding:'ADS): Moves the bishop, applying a fading 'Slow and dealing 'SpiritDamage to enemies it passes through. After a delay, activates diagonal squares that deal additional 'SpiritDamage when stepped on.Re-activate to recall all bishops, ending the ability.
+Create a bishop that remains in place indefinitely. 
+
+Move (ADS): Moves the bishop, applying a fading Slow and dealing Spirit Damage to enemies it passes through. After a delay, activates diagonal squares that deal additional Spirit Damage when stepped on.
+
+Re-activate to recall all bishops, ending the ability.
 
 Cooldown 12.0s · Duration 0.0s · Range 20.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 25.0
 
@@ -90,7 +94,11 @@ Cooldown 12.0s · Duration 0.0s · Range 20.0 · Spirit Cost 0.0 · Charges 0.0 
 
 **Signature** · `ability_chessmaster_knightbuff`
 
-Promote an ally to be a knight, granting bonus stamina and 'CombatBarrier for a duration.If self-cast you develop yourself as king instead, granting double the 'CombatBarrier but no stamina. Move ({g:citadel_binding:'ADS): Moves the piece, making it invulnerable during the duration before landing.
+Promote an ally to be a knight, granting bonus stamina and Combat Barrier for a duration.
+
+If self-cast you develop yourself as king instead, granting double the Combat Barrier but no stamina. 
+
+Move (ADS): Moves the piece, making it invulnerable during the duration before landing.
 
 Cooldown 25.0s · Duration 0.0s · Range 28.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 0.0
 
@@ -98,7 +106,9 @@ Cooldown 25.0s · Duration 0.0s · Range 28.0 · Spirit Cost 0.0 · Charges 0.0 
 
 **Signature** · `ability_chessmaster_forkpiece`
 
-Release a pair of rooks that travel forward, dealing 'SpiritDamage and applying 'Immobilize. If the rooks hit a wall, they reflect back in the opposite direction. Re-Activate: Split the rooks perpendicularly.
+Release a pair of rooks that travel forward, dealing Spirit Damage and applying Immobilize. If the rooks hit a wall, they reflect back in the opposite direction. 
+
+Re-Activate: Split the rooks perpendicularly.
 
 Cooldown 33.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 50.0
 
@@ -115,4 +125,4 @@ Cooldown 210.0s · Duration 0.0s · Range 30.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-In a world that moves too fast, Solomon is content to stop and listen. Offering a friendly ear and good counsel, Solomon has found himself sitting across the chess table from tourists, criminals, and titans of industry.  But no matter his opponent, Solomon remains un-phased... because to him, chess is so much more than a game. It's an equalizer. A way for him to connect to people from all walks of life on an even playing field.
+In a world that moves too fast, Solomon is content to stop and listen. Offering a friendly ear and good counsel, Solomon has found himself sitting across the chess table from tourists, criminals, and titans of industry. But no matter his opponent, Solomon remains un-phased... because to him, chess is so much more than a game. It's an equalizer. A way for him to connect to people from all walks of life on an even playing field.

@@ -84,7 +84,7 @@ data_updated: 2026-10-24
 
 **Signature** · `drifter_blood_blast`
 
-Swipe at enemies in a cone ahead of you, dealing 'SpiritDamage. If the enemy is in close range, deal bonus 'MeleeDamage.
+Swipe at enemies in a cone ahead of you, dealing Spirit Damage. If the enemy is in close range, deal bonus Melee Damage.
 
 Cooldown 16.0s · Duration 0.0s · Range 16.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 0.0
 
@@ -92,7 +92,9 @@ Cooldown 16.0s · Duration 0.0s · Range 16.0 · Spirit Cost 0.0 · Charges 0.0 
 
 **Signature** · `drifter_shadow_mark`
 
-Send out a mark that bleeds the first target it hits, dealing 'SpiritDPS.While the enemy is bleeding you can re-activate Stalker's Mark to instantly appear behind their back.
+Send out a mark that bleeds the first target it hits, dealing Spirit DPS.
+
+While the enemy is bleeding you can re-activate Stalker's Mark to instantly appear behind their back.
 
 Cooldown 26.0s · Duration 5.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -100,7 +102,7 @@ Cooldown 26.0s · Duration 5.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `ability_drifter_hunger`
 
-When enemy heroes are <span class=\
+When enemy heroes are low on health you deal amplified damage against them. These enemies leave a lingering blood trail as they move.
 
 Cooldown 0.0s · Duration 0.0s · Range 80.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -108,7 +110,9 @@ Cooldown 0.0s · Duration 0.0s · Range 80.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `drifter_darkness`
 
-Surround nearby enemy heroes in darkness, severely limiting their vision of other units. Affected enemies are briefly revealed to you and are considered isolated for the duration.You gain 'BonusSprintSpeed.
+Surround nearby enemy heroes in darkness, severely limiting their vision of other units. Affected enemies are briefly revealed to you and are considered isolated for the duration.
+
+You gain Bonus Sprint Speed.
 
 Cooldown 145.0s · Duration 6.5s · Range 100.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -121,4 +125,4 @@ Cooldown 145.0s · Duration 6.5s · Range 100.0 · Spirit Cost 0.0 · Charges 0.
 
 An ancient vampire roaming across America, the nameless monstrosity known as The Drifter has been preying on the living for generations.
 
-Unlike most vampires, Drifter doesn’t value finery or titles and has naked contempt for vampiric laws and tradition.  This refusal to toe the line has made him a marked man all over the North American Baronies; but while Viscounts and Elders cry for his execution, Drifter continues to do what he pleases...
+Unlike most vampires, Drifter doesn’t value finery or titles and has naked contempt for vampiric laws and tradition. This refusal to toe the line has made him a marked man all over the North American Baronies; but while Viscounts and Elders cry for his execution, Drifter continues to do what he pleases...

@@ -84,7 +84,11 @@ data_updated: 2026-10-24
 
 **Signature** · `citadel_ability_uppercut`
 
-Deal 'MeleeDamage to nearby enemies and apply 'KnockBack. When they land, they deal 'SpiritDamage and apply 'ReducedFireRate to other nearby enemies. Exploding Uppercut can be used on allies.
+Deal Melee Damage to nearby enemies and apply Knock Back. 
+
+When they land, they deal Spirit Damage and apply Reduced Fire Rate to other nearby enemies. 
+
+Exploding Uppercut can be used on allies.
 
 Cooldown 22.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -92,7 +96,11 @@ Cooldown 22.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `citadel_ability_sticky_bomb`
 
-Attach a bomb that explodes after a delay, dealing 'SpiritDamage to nearby enemies. If the bomb hits or kills a hero, you gain permanent bonus damage on Sticky Bomb. Stacks diminish by half after {s:OnHitDiminish} hits and {s:OnKillDiminish} kills
+Attach a bomb that explodes after a delay, dealing Spirit Damage to nearby enemies. 
+
+If the bomb hits or kills a hero, you gain permanent bonus damage on Sticky Bomb. 
+
+Stacks diminish by half after On Hit Diminish hits and On Kill Diminish kills
 
 Cooldown 18.0s · Duration 3.5s · Range 6.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 85.0
 
@@ -100,7 +108,9 @@ Cooldown 18.0s · Duration 3.5s · Range 6.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Signature** · `citadel_ability_hook`
 
-Launch out a mechanical hand that 'Pulls the first character it hits, reeling them in. Grapple Arm can be used on allies.
+Launch out a mechanical hand that Pulls the first character it hits, reeling them in. 
+
+Grapple Arm can be used on allies.
 
 Cooldown 23.0s · Duration 0.0s · Range 30.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 0.0
 
@@ -108,7 +118,7 @@ Cooldown 23.0s · Duration 0.0s · Range 30.0 · Spirit Cost 0.0 · Charges 0.0 
 
 **Ultimate** · `citadel_ability_bebop_laser_beam`
 
-Channel a powerful torrent of energy that deals 'SpiritDamage and applies 'Slow.
+Channel a powerful torrent of energy that deals Spirit Damage and applies Slow.
 
 Cooldown 120.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -119,4 +129,4 @@ Cooldown 120.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-Forged by the hands of a widowed junk yard attendant; Bebop was more than just some scrap golem laborer... he was the son she couldn't have.  Together they would work in the iron yard during the day, and listen to jazz at night. It was a predictable, if not comforting routine.  But now, Bebop's creator has fallen ill and while Miss Shelly wouldn't approve of the activities that Bebop does at night to pay for her medicine, what she doesn't know can't hurt her.
+Forged by the hands of a widowed junk yard attendant; Bebop was more than just some scrap golem laborer... he was the son she couldn't have. Together they would work in the iron yard during the day, and listen to jazz at night. It was a predictable, if not comforting routine. But now, Bebop's creator has fallen ill and while Miss Shelly wouldn't approve of the activities that Bebop does at night to pay for her medicine, what she doesn't know can't hurt her.

@@ -27,6 +27,7 @@ weapon_bullet_damage: 30.0
 weapon_ammo: 15.0
 weapon_bullets_per_sec: 1.54
 weapon_reload_time: 2.7
+weapon_bullet_velocity: 495.0
 release_date: "October 16, 2026"
 abilities: ["Living Ink", "Flow State", "Still Life", "Abstract Landscape"]
 tags: [hero, released]
@@ -71,6 +72,7 @@ data_updated: 2026-10-24
 | Ammo | 15.0 |
 | Bullets per sec | 1.54 |
 | Reload Time | 2.7 |
+| Bullet Velocity | 495.0 |
 
 ## Abilities
 
@@ -84,7 +86,9 @@ Cooldown 22.0s · Duration 10.0s · Range 0.0 · Spirit Cost 0.0 · Charges 2.0
 
 **Signature** · `ability_artist_rollingprojectile`
 
-Drag a brush that continues to travel forward, leaving a trail that grants <span class=\
+Drag a brush that continues to travel forward, leaving a trail that grants bonus slide distance for allies and a fading Slow and Spirit Damage to enemies it passes through, increased the further it travels. 
+
+Re-activate the ability to flick the brush forward, ending the ability early but dealing Spirit Damage in a larger area.
 
 Cooldown 23.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -92,7 +96,11 @@ Cooldown 23.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `ability_artist_tether`
 
-Choose a hero to be your <span class=\
+Choose a hero to be your subject, dealing Spirit DPS as long as you are looking at them. 
+
+If the sketch is completed they take additional Spirit Damage, suffer from Stun, and drop a sketch that can be picked up.
+
+ For each collected sketch, you permanently gain stats based on the hero.
 
 Cooldown 35.0s · Duration 0.0s · Range 25.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -100,7 +108,9 @@ Cooldown 35.0s · Duration 0.0s · Range 25.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `ability_artist_bamboogrove`
 
-Create a circular display of ink that blocks vision and grants allies 'Spirit.Enemies inside are revealed, and leaving causes them to take 'SpiritDamage and suffer from 'Silence and 'Slow, destroying the ink in the process.
+Create a circular display of ink that blocks vision and grants allies Spirit.
+
+Enemies inside are revealed, and leaving causes them to take Spirit Damage and suffer from Silence and Slow, destroying the ink in the process.
 
 Cooldown 165.0s · Duration 6.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 

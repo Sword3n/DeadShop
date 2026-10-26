@@ -85,7 +85,8 @@ data_updated: 2026-10-24
 
 **Signature** · `citadel_ability_power_slash`
 
-Channel to increase damage over {s:AbilityCastDelay} seconds, then release a fully-charged sword strike.Press{g:citadel_binding:'Ability1or{g:citadel_binding:'Attackto trigger the strike early, dealing partial damage.
+Channel to increase damage over Ability Cast Delay seconds, then release a fully-charged sword strike.
+Press Ability1 or Attack to trigger the strike early, dealing partial damage.
 
 Cooldown 12.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -93,7 +94,7 @@ Cooldown 12.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `citadel_ability_flying_strike`
 
-Throw a grappling hook to reel yourself towards an enemy, dealing'MeleeDamage and slowing the target when you arrive.
+Throw a grappling hook to reel yourself towards an enemy, dealing Melee Damage and slowing the target when you arrive.
 
 Cooldown 36.0s · Duration 0.0s · Range 26.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 0.0
 
@@ -109,7 +110,8 @@ Cooldown 16.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Ultimate** · `citadel_ability_infinity_slash`
 
-Become infused with {s:hero_name}'s shadow soul. After an initial invincible transformation your abilities are refreshed and are 60% faster. You gain immunity to negative status effects and have greatly increased bullet and spirit resist.When you get a hero kill, you heal and the duration is extended.
+Become infused with hero_name 's shadow soul. After an initial invincible transformation your abilities are refreshed and are 60% faster. You gain immunity to negative status effects and have greatly increased bullet and spirit resist.
+When you get a hero kill, you heal and the duration is extended.
 
 Cooldown 150.0s · Duration 5.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -119,4 +121,24 @@ Cooldown 150.0s · Duration 5.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-犯罪組織のボスの家に生まれた花桜梨とその兄の大和にとって、<br>父の死後に「セブンスムーン」の跡目を継ぐのは自明のことでもあった。<br>そして何年もの間、かれらは対等の立場で組織を率いて利益と成功を<br>もたらし、やがてはアメリカへの進出をも目論むようになった。<br><br>思い描いていた計画は単純で、 大和がアメリカに渡って花桜梨の<br>国際的な存在感を高め、その間花桜梨は日本に残って国内を統制する、<br>といったものだった。 兄妹にとって不運だったのは、花桜梨が日本で<br>指揮をとるという計画を快く思わない部下たちがいたことだった。<br><br>そして迅速かつ暴力的な形で、反乱は発生した。大和は花桜梨を<br>守るために命を落とし、花桜梨と数人の忠実な部下たちは、<br>その大和の犠牲のおかげもあって、日本からアメリカへと<br>逃げ延びることに成功した。<br><br>アメリカに着いた花桜梨たちを出迎えたのは、本来であれば大和が<br>会う予定となっていた男であった。彼は日本人の名前になじみが<br>なかったため性別の区別がついておらず、花桜梨のことを<br>「ヤマト」と呼んだ。花桜梨は男の間違いを正そうと思ったが、<br>結局そのままにした。兄の記憶を残し続けるためにも、その名を名乗り、<br>その夢を受け継ぐことが最善の道であろうと考えたからだ。
+犯罪組織のボスの家に生まれた花桜梨とその兄の大和にとって、
+父の死後に「セブンスムーン」の跡目を継ぐのは自明のことでもあった。
+そして何年もの間、かれらは対等の立場で組織を率いて利益と成功を
+もたらし、やがてはアメリカへの進出をも目論むようになった。
+
+思い描いていた計画は単純で、 大和がアメリカに渡って花桜梨の
+国際的な存在感を高め、その間花桜梨は日本に残って国内を統制する、
+といったものだった。 兄妹にとって不運だったのは、花桜梨が日本で
+指揮をとるという計画を快く思わない部下たちがいたことだった。
+
+そして迅速かつ暴力的な形で、反乱は発生した。大和は花桜梨を
+守るために命を落とし、花桜梨と数人の忠実な部下たちは、
+その大和の犠牲のおかげもあって、日本からアメリカへと
+逃げ延びることに成功した。
+
+アメリカに着いた花桜梨たちを出迎えたのは、本来であれば大和が
+会う予定となっていた男であった。彼は日本人の名前になじみが
+なかったため性別の区別がついておらず、花桜梨のことを
+「ヤマト」と呼んだ。花桜梨は男の間違いを正そうと思ったが、
+結局そのままにした。兄の記憶を残し続けるためにも、その名を名乗り、
+その夢を受け継ぐことが最善の道であろうと考えたからだ。

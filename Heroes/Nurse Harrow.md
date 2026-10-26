@@ -27,6 +27,7 @@ weapon_bullet_damage: 14.9
 weapon_ammo: 11.0
 weapon_bullets_per_sec: 2.63
 weapon_reload_time: 1.9
+weapon_bullet_velocity: 508.0
 release_date: "October 20, 2026"
 abilities: ["Leech Therapy", "Wretched Vapors", "Healing Needles", "Lurking Terrors"]
 tags: [hero, released]
@@ -71,6 +72,7 @@ data_updated: 2026-10-24
 | Ammo | 11.0 |
 | Bullets per sec | 2.63 |
 | Reload Time | 1.9 |
+| Bullet Velocity | 508.0 |
 
 ## Abilities
 
@@ -78,7 +80,7 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_nurse_leech_therapy`
 
-Throw a jar of leeches that attach to enemies, dealing 'SpiritDPS and <span class=\
+Throw a jar of leeches that attach to enemies, dealing Spirit DPS and eating away at the duration of enemy buffs.
 
 Cooldown 30.0s · Duration 5.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -86,7 +88,13 @@ Cooldown 30.0s · Duration 5.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `ability_nurse_adrenaline_rush`
 
-Crack open a vial to release an ethereal vapor onto yourself or an ally that causes a rush, then a crash.<span class=\
+Crack open a vial to release an ethereal vapor onto yourself or an ally that causes a rush, then a crash.
+
+Specter Rush: While it lasts, increases the speed of all actions and temporarily numbs all incoming damage creating looming specters.
+
+Specter Crash: When the vapors wear off, all actions are slower and any remaining specters deal their delayed damage plus extra damage.
+
+Incoming healing will prioritize removing specters first, preventing them from dealing damage.
 
 Cooldown 40.0s · Duration 4.0s · Range 13.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -94,7 +102,11 @@ Cooldown 40.0s · Duration 4.0s · Range 13.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `ability_nurse_healing_needles`
 
-Load your weapon with a full clip of syringes that 'Heal allies. <span class=\
+Load your weapon with a full clip of syringes that Heal allies. Dealing damage recovers charges, and each leech you have collected slowly restores them.
+
+Reloading spends a charge for a fresh clip.
+
+Unused syringes are refunded as a partial charge. Recast to put them away.
 
 Cooldown 0.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 1.0
 
@@ -102,7 +114,11 @@ Cooldown 0.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 1.0
 
 **Ultimate** · `ability_nurse_fear`
 
-Open your bag and reveal the horrors you carry inside, dealing 'SpiritDPS to enemies in front of you. Enemies <span class=\
+Open your bag and reveal the horrors you carry inside, dealing Spirit DPS to enemies in front of you. Enemies looking at you build up terror and cannot use stamina or movement abilities. At max terror, they flee in fear away from you.
+
+Each leech you have collected adds fear duration.
+
+Enemies facing away from you take Facing Away Damage Percent % damage unless feared.
 
 Cooldown 200.0s · Duration 0.0s · Range 35.0 · Spirit Cost 0.0 · Charges 0.0
 

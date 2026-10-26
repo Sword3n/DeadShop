@@ -80,7 +80,9 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_familiar_ability02`
 
-Throw your trusty pillow inflicting 'SpiritDamage and heavy 'KnockBack.Landing hits reduces the cooldown of your other abilities.
+Throw your trusty pillow inflicting Spirit Damage and heavy Knock Back.
+
+Landing hits reduces the cooldown of your other abilities.
 
 Cooldown 25.0s · Duration 0.0s · Range 40.0 · Spirit Cost 0.0 · Charges 1.0 · Damage 75.0
 
@@ -88,7 +90,12 @@ Cooldown 25.0s · Duration 0.0s · Range 40.0 · Spirit Cost 0.0 · Charges 1.0 
 
 **Signature** · `ability_familiar_attach`
 
-Jump to an ally and nap alongside them. Both you and the ally receive a burst 'Heal based on missing health followed by lingering 'Regen.Hop between allies with {g:citadel_binding:'Ability2 to apply the heal, once per ally.You are knocked off if stunned by an ultimate ability.You can use items and all self-casts target your ally instead.
+Jump to an ally and nap alongside them. Both you and the ally receive a burst Heal based on missing health followed by lingering Regen.
+
+Hop between allies with Ability2 to apply the heal, once per ally.
+
+You are knocked off if stunned by an ultimate ability.
+You can use items and all self-casts target your ally instead.
 
 Cooldown 40.0s · Duration 5.5s · Range 23.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -96,7 +103,13 @@ Cooldown 40.0s · Duration 5.5s · Range 23.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `ability_familiar_helpinghands`
 
-Signal a Helper to lend a hand. They can collect boxes, do Sinner's Sacrifices, or be sent to support allies and troopers.Follow a hero: Provides a short burst of 'SpiritResist and fading 'MoveSpeed.Follow a trooper: Provides healing, damage, resists, and allows tagging along. When no hero is around, souls from trooper kills are split amongst the team.Can be cast during Tag Along. Helpers will take a nap for {s:HelperDowntimeDuration}s after following someone.
+Signal a Helper to lend a hand. They can collect boxes, do Sinner's Sacrifices, or be sent to support allies and troopers.
+
+Follow a hero: Provides a short burst of Spirit Resist and fading Move Speed.
+
+Follow a trooper: Provides healing, damage, resists, and allows tagging along. When no hero is around, souls from trooper kills are split amongst the team.
+
+Can be cast during Tag Along. Helpers will take a nap for Helper Downtime Duration s after following someone.
 
 Cooldown 0.0s · Duration 0.0s · Range 45.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 20.0
 
@@ -104,7 +117,9 @@ Cooldown 0.0s · Duration 0.0s · Range 45.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Ultimate** · `ability_familiar_ability01`
 
-Cast your gaze forward, piercing walls and floors. Enemies in the gaze are slowed, have reduced dash distance, and cannot use movement abilities.When the channel ends they fall asleep before waking up to a splitting headache that deals heavy 'SpiritDamage.
+Cast your gaze forward, piercing walls and floors. Enemies in the gaze are slowed, have reduced dash distance, and cannot use movement abilities.
+
+When the channel ends they fall asleep before waking up to a splitting headache that deals heavy Spirit Damage.
 
 Cooldown 200.0s · Duration 0.0s · Range 24.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -114,4 +129,6 @@ Cooldown 200.0s · Duration 0.0s · Range 24.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-An accidental stowaway from the world of dreams, Rem has found himself stranded in the city that never sleeps.  Driven by his curious nature, Rem and his helpful friends have been seen wandering across the five boroughs in search of a way back home.<br><br>So if you ever find yourself dozing off while taking the Blue line home from work, maybe you've just had an encounter with one of the Cursed Apple's newest denizens.
+An accidental stowaway from the world of dreams, Rem has found himself stranded in the city that never sleeps. Driven by his curious nature, Rem and his helpful friends have been seen wandering across the five boroughs in search of a way back home.
+
+So if you ever find yourself dozing off while taking the Blue line home from work, maybe you've just had an encounter with one of the Cursed Apple's newest denizens.

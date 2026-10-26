@@ -84,7 +84,7 @@ data_updated: 2026-10-24
 
 **Signature** · `citadel_ability_stomp`
 
-Release an energy pulse that travels along the ground, dealing 'SpiritDamage and applying 'KnockUp.
+Release an energy pulse that travels along the ground, dealing Spirit Damage and applying Knock Up.
 
 Cooldown 26.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 1.0 · Damage 115.0
 
@@ -92,7 +92,9 @@ Cooldown 26.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 1.0 �
 
 **Signature** · `citadel_ability_void_sphere`
 
-Briefly become untargetable while teleporting to the target location. Restores stamina upon use. {g:citadel_binding:'AltCast: Bring nearby allies with you.
+Briefly become untargetable while teleporting to the target location. Restores stamina upon use. 
+
+Alt Cast : Bring nearby allies with you.
 
 Cooldown 20.0s · Duration 1.4s · Range 10.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -100,7 +102,8 @@ Cooldown 20.0s · Duration 1.4s · Range 10.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `citadel_ability_nikuman`
 
-While channeling, restore health over time to you and any allies nearby.You can dash and melee without breaking the channel.
+While channeling, restore health over time to you and any allies nearby.
+You can dash and melee without breaking the channel.
 
 Cooldown 48.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -108,7 +111,7 @@ Cooldown 48.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `citadel_ability_self_vacuum`
 
-Create a singularity in your hands, dealing 'SpiritDPS, applying 'Stun, and pulling in nearby enemies.
+Create a singularity in your hands, dealing Spirit DPS, applying Stun, and pulling in nearby enemies.
 
 Cooldown 250.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -119,4 +122,6 @@ Cooldown 250.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-As a Scientist, Professor Dynamo always had an inquisitive mind.  So when a rift in space and time opened up in central park he was first on the scene to investigate - and while he expected such a majestic sight to be life changing, he was thinking more in a metaphorical way as opposed to having his body atomized and reduced to a tiny dying star.<br><br>But while his body is gone, his spirit and lust for knowledge lives on.  A tenured professor at Columbia College, Dynamo looks to learn more about his condition while maintaining his class load, after all: he has future minds to inspire.
+As a Scientist, Professor Dynamo always had an inquisitive mind. So when a rift in space and time opened up in central park he was first on the scene to investigate - and while he expected such a majestic sight to be life changing, he was thinking more in a metaphorical way as opposed to having his body atomized and reduced to a tiny dying star.
+
+But while his body is gone, his spirit and lust for knowledge lives on. A tenured professor at Columbia College, Dynamo looks to learn more about his condition while maintaining his class load, after all: he has future minds to inspire.

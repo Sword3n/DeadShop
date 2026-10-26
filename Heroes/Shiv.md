@@ -94,7 +94,7 @@ Cooldown 16.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 2.0
 
 **Signature** · `citadel_ability_shiv_dash`
 
-Perform a dash forward, damaging enemies along the path.  Hit Enemies have their 'SpiritResist reduced. This debuff can stack.
+Perform a dash forward, damaging enemies along the path. Hit Enemies have their Spirit Resist reduced. This debuff can stack.
 
 Cooldown 16.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -119,4 +119,6 @@ Cooldown 145.0s · Duration 0.0s · Range 12.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-A loyal member of "The Baxter Society", an international order of monster hunters, Shiv travels across North America looking to put down creatures that prey on the living.<br><br>While his less polished nature and criminal past make some of the more traditional members of the Society wary, no one can deny his effectiveness.
+A loyal member of "The Baxter Society", an international order of monster hunters, Shiv travels across North America looking to put down creatures that prey on the living.
+
+While his less polished nature and criminal past make some of the more traditional members of the Society wary, no one can deny his effectiveness.

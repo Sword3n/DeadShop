@@ -81,7 +81,9 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_doorman_bomb`
 
-Throw out a call bell that deals 'SpiritDamage on impact. After a short delay it explodes, dealing additional 'SpiritDamage and causing affected enemies to suffer reduced weapon accuracy and movement 'Slow.Can be shot to detonate early.
+Throw out a call bell that deals Spirit Damage on impact. After a short delay it explodes, dealing additional Spirit Damage and causing affected enemies to suffer reduced weapon accuracy and movement Slow.
+
+Can be shot to detonate early.
 
 Cooldown 18.0s · Duration 4.0s · Range 0.0 · Spirit Cost 0.0 · Charges 1.0
 
@@ -89,7 +91,9 @@ Cooldown 18.0s · Duration 4.0s · Range 0.0 · Spirit Cost 0.0 · Charges 1.0
 
 **Signature** · `ability_doorman_doorway`
 
-Place two connected doors in the world. Players and most projectiles entering one door will exit out through the other. The doors will close at the end of the duration.The two doors must be placed within the doorway distance of each other.
+Place two connected doors in the world. Players and most projectiles entering one door will exit out through the other. The doors will close at the end of the duration.
+
+The two doors must be placed within the doorway distance of each other.
 
 Cooldown 45.0s · Duration 15.0s · Range 50.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -97,7 +101,9 @@ Cooldown 45.0s · Duration 15.0s · Range 50.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `ability_doorman_luggage_cart`
 
-Send out a Luggage Cart that deals 'SpiritDamage and 'Pulls enemy heroes along its path. Can be alt cast with {g:citadel_binding:'AltCast to target friendly heroes instead.
+Send out a Luggage Cart that deals Spirit Damage and Pulls enemy heroes along its path. 
+
+Can be alt cast with Alt Cast to target friendly heroes instead.
 
 Cooldown 30.0s · Duration 6.0s · Range 20.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -105,7 +111,9 @@ Cooldown 30.0s · Duration 6.0s · Range 20.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `ability_doorman_hotel`
 
-Send the target's physical body to be a guest at the Baroness Hotel. The guest is to promptly make their way to the exit elevator, where they'll be sent back to their original position. A stay at the Baroness Hotel is paid for in 'SpiritDamage. Failure to check-out on time costs additional 'SpiritDamage.
+Send the target's physical body to be a guest at the Baroness Hotel. The guest is to promptly make their way to the exit elevator, where they'll be sent back to their original position. 
+
+A stay at the Baroness Hotel is paid for in Spirit Damage. Failure to check-out on time costs additional Spirit Damage.
 
 Cooldown 140.0s · Duration 6.5s · Range 7.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 75.0
 
@@ -115,4 +123,6 @@ Cooldown 140.0s · Duration 6.5s · Range 7.0 · Spirit Cost 0.0 · Charges 0.0 
 
 ## Lore
 
-He's proper, he's polite, but the humble Doorman of The Baroness Hotel is more than meets the eye.<br><br>While he had only planned to experience life on this plane for a few weeks, The Doorman quickly discovered that the New York service industry was a great way to see the strange demands that please humans.
+He's proper, he's polite, but the humble Doorman of The Baroness Hotel is more than meets the eye.
+
+While he had only planned to experience life on this plane for a few weeks, The Doorman quickly discovered that the New York service industry was a great way to see the strange demands that please humans.

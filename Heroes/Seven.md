@@ -121,4 +121,20 @@ Cooldown 205.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-When mystic energy awoke on Earth, the world changed... anything was possible.  But just because anything WAS possible, didn't mean that anything SHOULD be possible.  And so the government made rules.   Laws.  A means for US citizens to enjoy the benefits of the supernatural world in safety.  But rules and laws are for lesser men.  Men with limitations.  Men who were not Seven.  <br><br>There are many rumors about what Seven did to land himself in Lost Whisper, an oubliette for the most dangerous of occultists.  But there is no doubt about what happened on the night of his execution. <br><br>Wards placed by the most powerful ritualists of 7 different nations... wards designed to not just prevent mystical interference with the execution, but to simultaneously obliterate Seven's soul so that it could never be contacted, resurrected, or otherwise be used by someone looking to follow in his footsteps... failed.<br><br>Onlookers viewed in horror as the strongest mentalist employed by the US Army's head popped like a grape.  They screamed as Scotland Yard's premiere occult investigator, the one who allegedly captured Seven, crumbled to ash.  Seven's body buckled and writhed against his restraints; his skin burning from eldritch electricity... and yet he would not die.  He laughed.<br><br>He laughed as he tore himself free from his bondage.<br><br>He laughed as his captors cowered in fear.<br><br>He laughed as he massacred his tormentors.<br><br>He laughed as he tasted the fresh air that was denied to him for years.<br><br>And he laughed when he thought about what he was going to do once he reached New York City.
+When mystic energy awoke on Earth, the world changed... anything was possible. But just because anything WAS possible, didn't mean that anything SHOULD be possible. And so the government made rules. Laws. A means for US citizens to enjoy the benefits of the supernatural world in safety. But rules and laws are for lesser men. Men with limitations. Men who were not Seven. 
+
+There are many rumors about what Seven did to land himself in Lost Whisper, an oubliette for the most dangerous of occultists. But there is no doubt about what happened on the night of his execution. 
+
+Wards placed by the most powerful ritualists of 7 different nations... wards designed to not just prevent mystical interference with the execution, but to simultaneously obliterate Seven's soul so that it could never be contacted, resurrected, or otherwise be used by someone looking to follow in his footsteps... failed.
+
+Onlookers viewed in horror as the strongest mentalist employed by the US Army's head popped like a grape. They screamed as Scotland Yard's premiere occult investigator, the one who allegedly captured Seven, crumbled to ash. Seven's body buckled and writhed against his restraints; his skin burning from eldritch electricity... and yet he would not die. He laughed.
+
+He laughed as he tore himself free from his bondage.
+
+He laughed as his captors cowered in fear.
+
+He laughed as he massacred his tormentors.
+
+He laughed as he tasted the fresh air that was denied to him for years.
+
+And he laughed when he thought about what he was going to do once he reached New York City.

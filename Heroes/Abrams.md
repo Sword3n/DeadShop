@@ -86,7 +86,7 @@ data_updated: 2026-10-24
 
 **Signature** · `citadel_ability_bull_heal`
 
-Drain health from nearby enemies, dealing 'SpiritDPS and 'Healing for a portion of the damage dealt.
+Drain health from nearby enemies, dealing Spirit DPS and Healing for a portion of the damage dealt.
 
 Cooldown 42.0s · Duration 4.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -94,7 +94,8 @@ Cooldown 42.0s · Duration 4.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `citadel_ability_bull_charge`
 
-Charge forward, 'Pulling enemies you hit. Pushing a hero into a wall applies 'Stun.If you collide with a hero you move faster during your charge.
+Charge forward, Pulling enemies you hit. Pushing a hero into a wall applies Stun.
+If you collide with a hero you move faster during your charge.
 
 Cooldown 33.0s · Duration 1.4s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 30.0
 
@@ -102,7 +103,7 @@ Cooldown 33.0s · Duration 1.4s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Signature** · `citadel_ability_passive_beefy`
 
-Gain bonus defensive attributes. Taking damage grants temporary 'Regen for a portion of the damage taken.
+Gain bonus defensive attributes. Taking damage grants temporary Regen for a portion of the damage taken.
 
 Cooldown 0.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -110,7 +111,7 @@ Cooldown 0.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `citadel_ability_bull_leap`
 
-Leap high into the air before crashing into the ground, dealing 'SpiritDamage and applying 'Stun.
+Leap high into the air before crashing into the ground, dealing Spirit Damage and applying Stun.
 
 Cooldown 215.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 100.0
 
@@ -121,4 +122,8 @@ Cooldown 215.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 
 
 ## Lore
 
-Hard hitting, hard headed, and hard drinking; Detective Abrams has been a fixture on the New York investigating scene for years.  From stolen art, to missing persons, to ritual murders; Abrams didn't just take any case that came across his desk... he solved them.<br><br>But his days of following cheating spouses came to an end the day he opened his office door and found The Tome sitting on his desk.<br><br>No instruction was left for him save for a brief note scrawled in onyx blood that read "Don't let them have it".  Abrams hasn't figured where the thing came from; but seeing as his home has been broken into, his office tossed on 3 different occasions, and his car firebombed he has a vested interest in figuring out what the hell is going on.
+Hard hitting, hard headed, and hard drinking; Detective Abrams has been a fixture on the New York investigating scene for years. From stolen art, to missing persons, to ritual murders; Abrams didn't just take any case that came across his desk... he solved them.
+
+But his days of following cheating spouses came to an end the day he opened his office door and found The Tome sitting on his desk.
+
+No instruction was left for him save for a brief note scrawled in onyx blood that read "Don't let them have it". Abrams hasn't figured where the thing came from; but seeing as his home has been broken into, his office tossed on 3 different occasions, and his car firebombed he has a vested interest in figuring out what the hell is going on.

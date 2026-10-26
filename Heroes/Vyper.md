@@ -84,7 +84,9 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_viper_debuffdagger`
 
-Throw a dagger, dealing 'SpiritDamage and applying 'Slow. Every subsequent dagger against the same target stacks in 'SpiritDamage and 'Slow.
+Throw a dagger, dealing Spirit Damage and applying Slow. 
+
+Every subsequent dagger against the same target stacks in Spirit Damage and Slow.
 
 Cooldown 10.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 2.0 · Damage 50.0
 
@@ -92,7 +94,9 @@ Cooldown 10.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 2.0 �
 
 **Signature** · `ability_viper_venom`
 
-Inject a target with lethal venom. After a delay the venom triggers, dealing Spirit Damage. The damage is increased by the target's missing health.Lethal Venom will ignore Petrify's damage block.
+Inject a target with lethal venom. After a delay the venom triggers, dealing Spirit Damage. The damage is increased by the target's missing health.
+
+Lethal Venom will ignore Petrify's damage block.
 
 Cooldown 28.0s · Duration 0.0s · Range 10.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -108,7 +112,9 @@ Cooldown 0.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `ability_viper_petrifybola`
 
-Throw an explosive bola. On exploding, the bola  Slows and  Damages all enemies in the area. Direct hits deal   Additional Damage and Petrify instead. Petrified units block all damage, but cannot take actions.
+Throw an explosive bola. On exploding, the bola Slows and Damages all enemies in the area. 
+
+Direct hits deal Additional Damage and Petrify instead. Petrified units block all damage, but cannot take actions.
 
 Cooldown 115.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 50.0
 
@@ -119,4 +125,6 @@ Cooldown 115.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 
 
 ## Lore
 
-When it comes to breaking the law, not getting caught is a pretty important part of the job.  Vyper never got that memo.  Luckily for her, if there's one thing she's better at than being arrested, it's escaping out of jail.<br><br>Having done time in every major prison in the tri-state area, Vyper has built an impressive network of street level lowlifes that owe her one.  She's also built an impressive network of street level lowlifes that want her dead, but she tries to focus on the positive.
+When it comes to breaking the law, not getting caught is a pretty important part of the job. Vyper never got that memo. Luckily for her, if there's one thing she's better at than being arrested, it's escaping out of jail.
+
+Having done time in every major prison in the tri-state area, Vyper has built an impressive network of street level lowlifes that owe her one. She's also built an impressive network of street level lowlifes that want her dead, but she tries to focus on the positive.

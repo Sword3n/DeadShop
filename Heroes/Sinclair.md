@@ -46,7 +46,7 @@ data_updated: 2026-10-24
 
 > [!info] released · Complexity 4 · Burst Fire
 
-> With the help of their unwilling assistant, <i>The Magnificent Sinclair</i> can confuse enemies with curving hexes and rapid bolts.
+> With the help of their unwilling assistant, The Magnificent Sinclair can confuse enemies with curving hexes and rapid bolts.
 
 ## Stats
 
@@ -86,7 +86,9 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_magician_magicbolt`
 
-Fire a bolt of magic that deals  Damage, increasing as it travels. If you have an Assistant, they also cast Vexing Bolt at reduced damage. Press {g:citadel_binding:'Ability1 to redirect the bolt towards your crosshairs.
+Fire a bolt of magic that deals Damage, increasing as it travels. If you have an Assistant, they also cast Vexing Bolt at reduced damage. 
+
+Press Ability1 to redirect the bolt towards your crosshairs.
 
 Cooldown 24.0s · Duration 0.0s · Range 500.0 · Spirit Cost 0.0 · Charges 1.0
 
@@ -94,7 +96,11 @@ Cooldown 24.0s · Duration 0.0s · Range 500.0 · Spirit Cost 0.0 · Charges 1.0
 
 **Signature** · `ability_magician_cloneturret`
 
-Summon an Assistant at the targeted location. The Assistant attacks whenever you fire your weapon, dealing  Damage. While the Assistant is out, you can press {g:citadel_binding:'Ability2 to swap positions with your Assistant. Casting Spectral Assistant also reloads your weapon.
+Summon an Assistant at the targeted location. The Assistant attacks whenever you fire your weapon, dealing Damage. 
+
+While the Assistant is out, you can press Ability2 to swap positions with your Assistant. 
+
+Casting Spectral Assistant also reloads your weapon.
 
 Cooldown 40.0s · Duration 6.0s · Range 15.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 15.0
 
@@ -102,7 +108,10 @@ Cooldown 40.0s · Duration 6.0s · Range 15.0 · Spirit Cost 0.0 · Charges 0.0 
 
 **Signature** · `ability_magician_animalhexarea`
 
-Hex a target area and transform all enemies into a Rabbit for a limited duration. Rabbits are small and  move faster, but take increased Damage and are unable to perform most actions.Hex does not interrupt abilities.
+Hex a target area and transform all enemies into a Rabbit for a limited duration.
+
+ Rabbits are small and move faster, but take increased Damage and are unable to perform most actions.
+Hex does not interrupt abilities.
 
 Cooldown 26.0s · Duration 0.0s · Range 24.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 0.0
 
@@ -110,7 +119,10 @@ Cooldown 26.0s · Duration 0.0s · Range 24.0 · Spirit Cost 0.0 · Charges 0.0 
 
 **Ultimate** · `ability_magician_copyult`
 
-Copy the Ultimate of an enemy hero for a limited time. Reactivating the ability will use the Copied Ultimate instead.Copies will inherit this ability's upgrade points.Audience Participation will also copy the cooldown.
+Copy the Ultimate of an enemy hero for a limited time. Reactivating the ability will use the Copied Ultimate instead.
+
+Copies will inherit this ability's upgrade points.
+Audience Participation will also copy the cooldown.
 
 Cooldown 85.0s · Duration 0.0s · Range 20.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -121,4 +133,10 @@ Cooldown 85.0s · Duration 0.0s · Range 20.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-Henry's parents told him he was too young and impulsive to mess with real magic, and so they gave him a deck of cards to play with.  He took to sleight of hand naturally and soon was dazzling his classmates with fantastic feats of illusions that were done without mystic artifacts or incantation.<br><br>When he was in high school he met Savannah, and their mutual love of stage magic sparked a whirlwind romance.  Soon they fell in love and created an act together.  Obviously they were meant to be; and so at prom, Henry proposed to Savannah and they married soon after graduation.<br><br>Unsurprisingly both sets of parents were not thrilled at this prospect, but Henry and Savannah knew they were soulmates.  And so they cemented their love for one another by having a blood mystic bind their souls for eternity.<br><br>When an on-stage accident claimed both their lives, no one was sure who to blame.  Henry claims Savannah was out of position.  Savannah says Henry didn't wait for his cue.  But one thing's for sure, since their souls are tied to each other neither one of them have been able to move on.  Now a bickering pair of ghosts, Henry and Savannah need to work together if they want to have any chance of undoing their eternal union.
+Henry's parents told him he was too young and impulsive to mess with real magic, and so they gave him a deck of cards to play with. He took to sleight of hand naturally and soon was dazzling his classmates with fantastic feats of illusions that were done without mystic artifacts or incantation.
+
+When he was in high school he met Savannah, and their mutual love of stage magic sparked a whirlwind romance. Soon they fell in love and created an act together. Obviously they were meant to be; and so at prom, Henry proposed to Savannah and they married soon after graduation.
+
+Unsurprisingly both sets of parents were not thrilled at this prospect, but Henry and Savannah knew they were soulmates. And so they cemented their love for one another by having a blood mystic bind their souls for eternity.
+
+When an on-stage accident claimed both their lives, no one was sure who to blame. Henry claims Savannah was out of position. Savannah says Henry didn't wait for his cue. But one thing's for sure, since their souls are tied to each other neither one of them have been able to move on. Now a bickering pair of ghosts, Henry and Savannah need to work together if they want to have any chance of undoing their eternal union.

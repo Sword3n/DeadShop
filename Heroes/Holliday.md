@@ -84,7 +84,12 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_explosive_barrel`
 
-Throw a barrel that explodes after a delay, dealing 'SpiritDamage, setting enemies on fire and applying 'KnockUp.  The barrel can be detonated early by being shot, melee'd, or detonated by another barrel.  The burn stacks, so overlapping barrels burn for their combined damage.Can be Alt-Cast to place the barrel in front of {s:hero_name}.
+Throw a barrel that explodes after a delay, dealing Spirit Damage, setting enemies on fire and applying Knock Up. 
+
+ The barrel can be detonated early by being shot, melee'd, or detonated by another barrel. 
+
+The burn stacks, so overlapping barrels burn for their combined damage.
+Can be Alt-Cast to place the barrel in front of hero_name.
 
 Cooldown 28.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 2.0
 
@@ -92,7 +97,11 @@ Cooldown 28.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 2.0
 
 **Signature** · `ability_bounce_pad`
 
-Drop a bounce pad in the world that launches any hero. You explode on landing, dealing  Damage to any nearby enemies. The explosion can only occur once per person per Bounce Pad.
+Drop a bounce pad in the world that launches any hero. 
+
+You explode on landing, dealing Damage to any nearby enemies. 
+
+The explosion can only occur once per person per Bounce Pad.
 
 Cooldown 41.0s · Duration 22.0s · Range 0.0 · Spirit Cost 0.0 · Charges 1.0
 
@@ -100,7 +109,10 @@ Cooldown 41.0s · Duration 22.0s · Range 0.0 · Spirit Cost 0.0 · Charges 1.0
 
 **Signature** · `ability_crackshot`
 
-Headshots deal bonus  Damage and applies a  Fading Move Speed penalty. This effect can only occur when off cooldown. Cooldown is reduced by {s:CrackshotNPCCDReduction}% on NPC hits. Crackshot ignores range damage fall-off and does not apply to objectives.
+Headshots deal bonus Damage and applies a Fading Move Speed penalty. This effect can only occur when off cooldown. 
+
+Cooldown is reduced by Crackshot NPCCD Reduction % on NPC hits. 
+Crackshot ignores range damage fall-off and does not apply to objectives.
 
 Cooldown 20.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 55.0
 
@@ -108,7 +120,8 @@ Cooldown 20.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Ultimate** · `ability_gravity_lasso`
 
-Throw out your lasso, dealing 'SpiritDamage, 'Pulling, and applying 'Stun.Using a Bounce Pad extends the duration of Spirit Lasso.
+Throw out your lasso, dealing Spirit Damage, Pulling, and applying Stun.
+Using a Bounce Pad extends the duration of Spirit Lasso.
 
 Cooldown 130.0s · Duration 2.25s · Range 20.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 80.0
 
@@ -119,4 +132,8 @@ Cooldown 130.0s · Duration 2.25s · Range 20.0 · Spirit Cost 0.0 · Charges 0.
 
 ## Lore
 
-There are people who spent their whole lives dreaming about moving to New York.  Holliday isn't one of those people.  Content with being a Sheriff in a small town, Holliday enjoyed a career where the only time she had to use her gun was when trick shooting at the county fair...then the murders started.<br><br>Grisly and inhumane; the bodies were found with their ribcages ripped open... their innards picked apart as if by birds.  Holliday tracked down the killer, a travelling folk musician that the media dubbed "The Troubadour", but when she confronted him he exploded into a murder of crows and flew away.<br><br>That was 6 months ago, and while the murders in central Illinois have stopped, Holliday's investigation has not.  She believes that The Troubadour is travelling to New York, and when she finds him she's going to kill that evil son of a bitch.
+There are people who spent their whole lives dreaming about moving to New York. Holliday isn't one of those people. Content with being a Sheriff in a small town, Holliday enjoyed a career where the only time she had to use her gun was when trick shooting at the county fair... then the murders started.
+
+Grisly and inhumane; the bodies were found with their ribcages ripped open... their innards picked apart as if by birds. Holliday tracked down the killer, a travelling folk musician that the media dubbed "The Troubadour", but when she confronted him he exploded into a murder of crows and flew away.
+
+That was 6 months ago, and while the murders in central Illinois have stopped, Holliday's investigation has not. She believes that The Troubadour is travelling to New York, and when she finds him she's going to kill that evil son of a bitch.

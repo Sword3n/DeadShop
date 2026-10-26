@@ -83,7 +83,9 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_ratking_scrap_grenade`
 
-Throw a grenade of scrap that detonates multiple times, dealing 'BulletDamage and applying 'Slow.The grenade can be meleed to knock it away.
+Throw a grenade of scrap that detonates multiple times, dealing Bullet Damage and applying Slow.
+
+The grenade can be meleed to knock it away.
 
 Cooldown 26.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -91,7 +93,9 @@ Cooldown 26.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `ability_ratking_ratnibble`
 
-Call forth a swarm of rats that leap onto enemies, dealing 'SpiritDPS and reducing their 'BulletResist with every bite. The more rats are attached, the faster they will bite the target.Enemies can have multiple rats attached, but can shake off a rat early by performing a ground or air dash.
+Call forth a swarm of rats that leap onto enemies, dealing Spirit DPS and reducing their Bullet Resist with every bite. The more rats are attached, the faster they will bite the target.
+
+Enemies can have multiple rats attached, but can shake off a rat early by performing a ground or air dash.
 
 Cooldown 24.0s · Duration 6.0s · Range 50.0 · Spirit Cost 0.0 · Charges 1.0
 
@@ -99,7 +103,9 @@ Cooldown 24.0s · Duration 6.0s · Range 50.0 · Spirit Cost 0.0 · Charges 1.0
 
 **Signature** · `ability_ratking_ratarmor`
 
-Adorn scrappy armor, gaining 'CombatBarrier based on your 'MaxHealth. As long as the armor holds, bullets have a chance to be deflected back towards the attacker.The barrier does not benefit from resists.
+Adorn scrappy armor, gaining Combat Barrier based on your Max Health. As long as the armor holds, bullets have a chance to be deflected back towards the attacker.
+
+The barrier does not benefit from resists.
 
 Cooldown 22.0s · Duration 6.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -107,7 +113,7 @@ Cooldown 22.0s · Duration 6.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `ability_ratking_standard_bearer`
 
-Charge up and summon the banner of Ratannia, granting all nearby allies increased 'MoveSpeed, immunity from slows, and reduced incoming damage while near the banner.
+Charge up and summon the banner of Ratannia, granting all nearby allies increased Move Speed, immunity from slows, and reduced incoming damage while near the banner.
 
 Cooldown 160.0s · Duration 10.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 200.0
 
@@ -117,4 +123,10 @@ Cooldown 160.0s · Duration 10.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-The cryptid ruler of the New York Warrens, The Rat King towers over his subjects in size, strength, and ambition. No longer content with hiding underground, the king has revealed his bold vision for a future where he and his subjects can walk the surface without fear of the pest control vans that roam the streets of New York (or as the rats call them: human death squads)<br><br>Step 1: Take control of Long Island<br>Step 2: Declare Long Island as the new sovereign nation of Ratannia<br>Step 3: Execute every human that refuses to leave this new rat utopia<br><br>But air tight as this plan is, the king of rats didn't want to take chances: and so he's decided to summon the patron to help hedge his bets.
+The cryptid ruler of the New York Warrens, The Rat King towers over his subjects in size, strength, and ambition. No longer content with hiding underground, the king has revealed his bold vision for a future where he and his subjects can walk the surface without fear of the pest control vans that roam the streets of New York (or as the rats call them: human death squads)
+
+Step 1: Take control of Long Island
+Step 2: Declare Long Island as the new sovereign nation of Ratannia
+Step 3: Execute every human that refuses to leave this new rat utopia
+
+But air tight as this plan is, the king of rats didn't want to take chances: and so he's decided to summon the patron to help hedge his bets.

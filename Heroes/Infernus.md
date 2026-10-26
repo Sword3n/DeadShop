@@ -84,7 +84,7 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_incendiary_projectile`
 
-Spew an incendiary mixture, dealing 'SpiritDamage, applying 'Slow, and coating targets in napalm.
+Spew an incendiary mixture, dealing Spirit Damage, applying Slow, and coating targets in napalm.
 
 Cooldown 25.0s · Duration 0.0s · Range 20.0 · Spirit Cost 0.0 · Charges 1.0 · Damage 40.0
 
@@ -92,7 +92,9 @@ Cooldown 25.0s · Duration 0.0s · Range 20.0 · Spirit Cost 0.0 · Charges 1.0 
 
 **Signature** · `ability_flame_dash`
 
-Dash forward, gaining 'SlowResistance while leaving a flaming trail that deals 'SpiritDPS. Hold{g:citadel_binding:'MoveForwardwhile active to dash farther.
+Dash forward, gaining Slow Resistance while leaving a flaming trail that deals Spirit DPS. 
+
+Hold Move Forward while active to dash farther.
 
 Cooldown 38.0s · Duration 3.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -100,7 +102,9 @@ Cooldown 38.0s · Duration 3.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `ability_afterburn`
 
-Weapon hits build up a burning effect, dealing 'SpiritDPS. Abilities refresh to the base burn duration and weapon hits extend it.
+Weapon hits build up a burning effect, dealing Spirit DPS. 
+
+Abilities refresh to the base burn duration and weapon hits extend it.
 
 Cooldown 0.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -108,7 +112,9 @@ Cooldown 0.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `ability_fire_bomb`
 
-Become a living bomb, dealing 'SpiritDamage and applying 'Stun to all nearby enemies after a delay.Once cast, Concussive Combustion cannot be interrupted.
+Become a living bomb, dealing Spirit Damage and applying Stun to all nearby enemies after a delay.
+
+Once cast, Concussive Combustion cannot be interrupted.
 
 Cooldown 190.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 125.0
 
@@ -119,4 +125,4 @@ Cooldown 190.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 
 
 ## Lore
 
-Like most teenagers; Infernus was wild, rebellious, and impetuous.  Unlike most teenagers, Infernus was a creature from another plane and had a supernatural mastery over fire.  Needless to say:  his youth was filled with no small amount of arson, murder, and evidence disposal.  But that was then.  Now an adult, Infernus has mellowed out considerably.  He's happy working at a bar with good live music, and talking to interesting people.  That being said when someone at the bar gets belligerent or violent, he's not afraid to dust off the skills he once honed.
+Like most teenagers; Infernus was wild, rebellious, and impetuous. Unlike most teenagers, Infernus was a creature from another plane and had a supernatural mastery over fire. Needless to say: his youth was filled with no small amount of arson, murder, and evidence disposal. But that was then. Now an adult, Infernus has mellowed out considerably. He's happy working at a bar with good live music, and talking to interesting people. That being said when someone at the bar gets belligerent or violent, he's not afraid to dust off the skills he once honed.

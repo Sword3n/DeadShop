@@ -83,7 +83,7 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_ice_grenade`
 
-Throw a grenade that explodes in a cloud of freezing ice that 'Heals allies and applies 'SpiritDamage and move speed reduction to enemies.
+Throw a grenade that explodes in a cloud of freezing ice that Heals allies and applies Spirit Damage and move speed reduction to enemies.
 
 Cooldown 30.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 2.0 · Damage 60.0
 
@@ -91,7 +91,8 @@ Cooldown 30.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 2.0 �
 
 **Signature** · `ability_icepath`
 
-{s:hero_name} creates a floating trail of ice and snow that gives movement bonuses to him and his allies. Kelvin gains {s:SlowResistancePercent}% slow resistance for the duration. Enemies can also walk on the floating trail. Press {g:citadel_binding:'Roll / {g:citadel_binding:'Crouch to travel up or down while in Ice Path.
+hero_name creates a floating trail of ice and snow that gives movement bonuses to him and his allies. Kelvin gains Slow Resistance Percent % slow resistance for the duration. Enemies can also walk on the floating trail. 
+Press Roll / Crouch to travel up or down while in Ice Path.
 
 Cooldown 50.0s · Duration 8.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -107,7 +108,9 @@ Cooldown 28.0s · Duration 5.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `ability_ice_dome`
 
-Target yourself or a Hero to freeze the air and create an impenetrable dome around them. While in the dome, allies gain rapid 'Regen and enemies are slowed. Objectives become Invulnerable and Frozen under Frozen Shelter
+Target yourself or a Hero to freeze the air and create an impenetrable dome around them. While in the dome, allies gain rapid Regen and enemies are slowed. 
+
+Objectives become Invulnerable and Frozen under Frozen Shelter
 
 Cooldown 185.0s · Duration 5.0s · Range 8.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -117,4 +120,10 @@ Cooldown 185.0s · Duration 5.0s · Range 8.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-A famed adventuring scientist, Kelvin made it his life's mission to explore and understand the unknowable.  So naturally when rumors surfaced regarding an 8th astral gate hidden in the arctic, Kelvin couldn't build an expedition team fast enough.  Assembling the brightest minds of his generation, Kelvin and his team set forth with much fanfare.<br><br>They never returned.<br><br>A year and a half later the frozen body of Kelvin was found by a fishing trawler, his corpse clutching a rock etched with glowing runes.  The crew chipped away at the ice, looking to get a closer look at the body and were shocked when Kelvin opened his eyes.  They checked his vitals... there was no pulse.  They sought to bandage his open wounds... there was no blood.  And yet, impossibly, Kelvin was "alive".<br><br>Having no memory of what happened on the expedition, Kelvin is looking for answers.
+A famed adventuring scientist, Kelvin made it his life's mission to explore and understand the unknowable. So naturally when rumors surfaced regarding an 8th astral gate hidden in the arctic, Kelvin couldn't build an expedition team fast enough. Assembling the brightest minds of his generation, Kelvin and his team set forth with much fanfare.
+
+They never returned.
+
+A year and a half later the frozen body of Kelvin was found by a fishing trawler, his corpse clutching a rock etched with glowing runes. The crew chipped away at the ice, looking to get a closer look at the body and were shocked when Kelvin opened his eyes. They checked his vitals... there was no pulse. They sought to bandage his open wounds... there was no blood. And yet, impossibly, Kelvin was "alive".
+
+Having no memory of what happened on the expedition, Kelvin is looking for answers.

@@ -92,7 +92,7 @@ Cooldown 26.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Signature** · `viscous_restorative_goo`
 
-Encase the target in a cube of restorative goo that protects from damage, and increases health regen. Target is unable to take any new actions while cubed. Can be used on self. Press {g:citadel_binding:'Mantle to escape early.
+Encase the target in a cube of restorative goo that protects from damage, and increases health regen. Target is unable to take any new actions while cubed. Can be used on self. Press Mantle to escape early.
 
 Cooldown 42.0s · Duration 3.0s · Range 20.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -100,7 +100,11 @@ Cooldown 42.0s · Duration 3.0s · Range 20.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `viscous_telepunch`
 
-Materialize a fist in the world that punches everyone in the area, applying 'KnockUp. Punching an enemy deals 'MeleeDamage and applies 'Slow. Enemies can Parry this attack.You and your allies have increased Air Control.
+Materialize a fist in the world that punches everyone in the area, applying Knock Up. 
+
+Punching an enemy deals Melee Damage and applies Slow. Enemies can Parry this attack.
+
+You and your allies have increased Air Control.
 
 Cooldown 24.0s · Duration 0.0s · Range 40.0 · Spirit Cost 0.0 · Charges 1.0 · Damage 20.0
 
@@ -119,4 +123,6 @@ Cooldown 150.0s · Duration 11.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-The Bermuda Triangle was never a myth, it was a shadowline nexus deep underneath the Atlantic Ocean.  For the most part, the things that escaped this astral gate were benign (like Nessie), but now something dark and predatory known only as The Adversary hunts the seas... and ocean denizens are scared to death.<br><br>One of those inhabitants, a psychic sea anemone, wants to do something about it.  Summoning an ectoplasmic goo body to traverse the surface, Viscous is desperately trying to summon the Patrons in order to keep The Deep safe from the horror that lurks below.
+The Bermuda Triangle was never a myth, it was a shadowline nexus deep underneath the Atlantic Ocean. For the most part, the things that escaped this astral gate were benign (like Nessie), but now something dark and predatory known only as The Adversary hunts the seas... and ocean denizens are scared to death.
+
+One of those inhabitants, a psychic sea anemone, wants to do something about it. Summoning an ectoplasmic goo body to traverse the surface, Viscous is desperately trying to summon the Patrons in order to keep The Deep safe from the horror that lurks below.

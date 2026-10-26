@@ -79,7 +79,9 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_priest_flashbang`
 
-Fire a grenade that bounces before exploding, dealing 'WeaponDamage and setting enemies on fire. Burning targets deal 'PureDamage to enemies in the area and suffer from reduced healing.
+Fire a grenade that bounces before exploding, dealing Weapon Damage and setting enemies on fire. 
+
+Burning targets deal Pure Damage to enemies in the area and suffer from reduced healing.
 
 Cooldown 25.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 35.0
 
@@ -87,7 +89,7 @@ Cooldown 25.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Signature** · `ability_priest_knockback`
 
-Fire a blast with your shotgun, dealing 'WeaponDamage and pushing enemies back. Enemies near a wall receive 'Stun and take 'BonusWeaponDamage.
+Fire a blast with your shotgun, dealing Weapon Damage and pushing enemies back. Enemies near a wall receive Stun and take Bonus Weapon Damage.
 
 Cooldown 23.0s · Duration 0.0s · Range 10.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 60.0
 
@@ -95,7 +97,9 @@ Cooldown 23.0s · Duration 0.0s · Range 10.0 · Spirit Cost 0.0 · Charges 0.0 
 
 **Signature** · `ability_priest_beartrap`
 
-Kick a trap that arms after a brief delay. The trap springs on the first enemy it touches, dealing 'SpiritDamage, applying 'Immobilize, and revealing enemies for a duration afterwards.
+Kick a trap that arms after a brief delay. 
+
+The trap springs on the first enemy it touches, dealing Spirit Damage, applying Immobilize, and revealing enemies for a duration afterwards.
 
 Cooldown 28.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 2.0 · Damage 80.0
 
@@ -103,7 +107,9 @@ Cooldown 28.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 2.0 �
 
 **Ultimate** · `ability_priest_weaponswap`
 
-Load your crossbow with 3 stakes, dealing massively increased 'WeaponDamage.The final stake is blessed, dealing bonus 'PureDamage and executing low-health enemies.
+Load your crossbow with 3 stakes, dealing massively increased Weapon Damage.
+
+The final stake is blessed, dealing bonus Pure Damage and executing low-health enemies.
 
 Cooldown 160.0s · Duration 15.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 120.0
 
@@ -113,4 +119,6 @@ Cooldown 160.0s · Duration 15.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-The Venators of St. Benedict are a Vatican-sanctioned order whose members are deployed to regions with a high concentration of supernatural predators. Few in number, their modus operandi is to observe, identify, and exterminate. They are methodical, they are precise, and once they identify a threat to the flock they are relentless.<br><br>But even amongst those who are called The Sword Of St. Benedict, one stands apart from the others. A man whose hardened heart has allowed him to pay terrible prices in the name of the greater good... and he has once again been dispatched to New York.
+The Venators of St. Benedict are a Vatican-sanctioned order whose members are deployed to regions with a high concentration of supernatural predators. Few in number, their modus operandi is to observe, identify, and exterminate. They are methodical, they are precise, and once they identify a threat to the flock they are relentless.
+
+But even amongst those who are called The Sword Of St. Benedict, one stands apart from the others. A man whose hardened heart has allowed him to pay terrible prices in the name of the greater good... and he has once again been dispatched to New York.

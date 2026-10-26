@@ -83,7 +83,8 @@ data_updated: 2026-10-24
 
 **Signature** · `citadel_ability_shieldedsentry`
 
-Deploy a turret that shoots enemies, dealing 'SpiritDPS. The turret expires after a limited lifetime.Turrets deal reduced damage to troopers and objectives.
+Deploy a turret that shoots enemies, dealing Spirit DPS. The turret expires after a limited lifetime.
+Turrets deal reduced damage to troopers and objectives.
 
 Cooldown 18.0s · Duration 0.0s · Range 20.0 · Spirit Cost 0.0 · Charges 1.0
 
@@ -91,7 +92,7 @@ Cooldown 18.0s · Duration 0.0s · Range 20.0 · Spirit Cost 0.0 · Charges 1.0
 
 **Signature** · `citadel_ability_mobile_resupply`
 
-Deploy a spirit that provides 'Healing to nearby allies.
+Deploy a spirit that provides Healing to nearby allies.
 
 Cooldown 50.0s · Duration 6.5s · Range 15.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -99,7 +100,10 @@ Cooldown 50.0s · Duration 6.5s · Range 15.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `citadel_ability_fissure_wall`
 
-Cast a wall that applies slow on enemies it passes through.  Erupt the wall to divide the terrain in half and damage nearby enemies. After casting, press{g:citadel_binding:'Attackor{g:citadel_binding:'Ability3to erupt the wall early.  Can be Destroyed with Melee Attacks
+Cast a wall that applies slow on enemies it passes through. Erupt the wall to divide the terrain in half and damage nearby enemies. 
+After casting, press Attack or Ability3 to erupt the wall early. 
+
+Can be Destroyed with Melee Attacks
 
 Cooldown 50.0s · Duration 6.0s · Range 50.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 60.0
 
@@ -107,7 +111,9 @@ Cooldown 50.0s · Duration 6.0s · Range 50.0 · Spirit Cost 0.0 · Charges 0.0 
 
 **Ultimate** · `citadel_ability_rocket_barrage`
 
-Unleashes a volley of rockets that home in on a targeted location. {s:hero_name} is slowed and is still able to use stamina.
+Unleashes a volley of rockets that home in on a targeted location. 
+
+ hero_name is slowed and is still able to use stamina.
 
 Cooldown 200.0s · Duration 8.0s · Range 36.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -117,4 +123,6 @@ Cooldown 200.0s · Duration 8.0s · Range 36.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-Maggie McGinnis always had a knack for building things. At 4 she was using Lincoln Logs to recreate architectural marvels. At 10 she built and rewired a custom light fixture for her parents' anniversary. At 15 she designed a machine that refined the souls of the dead...that last one got a little more attention than the Lincoln Logs.<br><br>Now the head of Fairfax Industries Military R&D department, McGinnis spends her time in the machine shop, not in a lab. She's not interested in theory, to her science is magic you can touch.
+Maggie McGinnis always had a knack for building things. At 4 she was using Lincoln Logs to recreate architectural marvels. At 10 she built and rewired a custom light fixture for her parents' anniversary. At 15 she designed a machine that refined the souls of the dead... that last one got a little more attention than the Lincoln Logs.
+
+Now the head of Fairfax Industries Military R&D department, McGinnis spends her time in the machine shop, not in a lab. She's not interested in theory, to her science is magic you can touch.

@@ -102,7 +102,7 @@ Cooldown 35.0s · Duration 0.0s · Range 30.0 · Spirit Cost 0.0 · Charges 1.0
 
 **Signature** · `ability_lash_flog`
 
-Strike enemies in front of you with your whip, 'Healing for a portion of the damage dealt.
+Strike enemies in front of you with your whip, Healing for a portion of the damage dealt.
 
 Cooldown 26.0s · Duration 0.0s · Range 20.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 65.0
 
@@ -110,7 +110,8 @@ Cooldown 26.0s · Duration 0.0s · Range 20.0 · Spirit Cost 0.0 · Charges 0.0 
 
 **Ultimate** · `citadel_ability_lash_ultimate`
 
-Focus on enemies to connect whips to them. After channeling, connected enemies are lifted and stunned then slammed into the ground. Your victims and any enemies in the landing zone will be damaged and slowed. Press{g:citadel_binding:'Attackto throw connected enemies early. Enemies that are not in line of sight or go out of range during the latch time will not be grabbed.
+Focus on enemies to connect whips to them. After channeling, connected enemies are lifted and stunned then slammed into the ground. Your victims and any enemies in the landing zone will be damaged and slowed. 
+Press Attack to throw connected enemies early. Enemies that are not in line of sight or go out of range during the latch time will not be grabbed.
 
 Cooldown 170.0s · Duration 0.0s · Range 20.0 · Spirit Cost 0.0 · Charges 0.0
 

@@ -82,7 +82,9 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_frank_shocktarget2`
 
-Taking any damage passively charges up your Pain Battery. Once full, activating the ability fires multiple shocking bolts, dealing 'SpiritDamage once per target.
+Taking any damage passively charges up your Pain Battery. 
+
+Once full, activating the ability fires multiple shocking bolts, dealing Spirit Damage once per target.
 
 Cooldown 2.0s · Duration 0.0s · Range 28.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 100.0
 
@@ -90,7 +92,7 @@ Cooldown 2.0s · Duration 0.0s · Range 28.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Signature** · `ability_frank_selfzap`
 
-Deal 'SpiritDamage to yourself. Then, gain bonus 'Regen and 'BonusMoveSpeed, decaying over time.
+Deal Spirit Damage to yourself. Then, gain bonus Regen and Bonus Move Speed, decaying over time.
 
 Cooldown 30.0s · Duration 4.5s · Range 0.0 · Spirit Cost 0.0 · Charges 1.0
 
@@ -98,7 +100,9 @@ Cooldown 30.0s · Duration 4.5s · Range 0.0 · Spirit Cost 0.0 · Charges 1.0
 
 **Signature** · `ability_frank_painaura`
 
-Unleash pain, dealing 'SpiritDPS to both enemies and yourself. The damage continues to increase the longer the ability is channeled, up to a maximum amount.
+Unleash pain, dealing Spirit DPS to both enemies and yourself. 
+
+The damage continues to increase the longer the ability is channeled, up to a maximum amount.
 
 Cooldown 2.0s · Duration 8.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 0.0
 
@@ -106,7 +110,9 @@ Cooldown 2.0s · Duration 8.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 ·
 
 **Ultimate** · `ability_frank_revive`
 
-Release a wave after taking lethal damage, applying a diminishing 'Slow. After a brief channel you reanimate, dealing 'SpiritDamage and applying 'Stun to nearby enemies.
+Release a wave after taking lethal damage, applying a diminishing Slow. 
+
+After a brief channel you reanimate, dealing Spirit Damage and applying Stun to nearby enemies.
 
 Cooldown 240.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 200.0
 

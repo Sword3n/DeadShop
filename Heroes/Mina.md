@@ -82,7 +82,10 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_vampirebat_steallife`
 
-Active: Slash with your umbrella, dealing 'SpiritDamage, increasing with their missing health. Receive a 'Heal for every target killed.Passive: Holding {g:citadel_binding:'ADS causes you to briefly float.Rake executes non-heroes below {s:TrooperExecuteThreshold} health.
+Active: Slash with your umbrella, dealing Spirit Damage, increasing with their missing health. Receive a Heal for every target killed.
+
+Passive: Holding ADS causes you to briefly float.
+Rake executes non-heroes below Trooper Execute Threshold health.
 
 Cooldown 16.0s · Duration 0.0s · Range 10.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 60.0
 
@@ -90,7 +93,9 @@ Cooldown 16.0s · Duration 0.0s · Range 10.0 · Spirit Cost 0.0 · Charges 0.0 
 
 **Signature** · `ability_vampirebat_batblink`
 
-Briefly disperse, becoming untargetable and flying to a target location. Can be recast within a brief window.
+Briefly disperse, becoming untargetable and flying to a target location. 
+
+Can be recast within a brief window.
 
 Cooldown 32.0s · Duration 0.65s · Range 9.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -98,7 +103,9 @@ Cooldown 32.0s · Duration 0.65s · Range 9.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `ability_vampirebat_lovebites`
 
-Your bullets apply additional 'SpiritDamage. Dealing damage with your abilities builds up to a vicious bite, dealing a burst of 'BonusSpiritDamage. Love Bites has a unique cooldown per target.
+Your bullets apply additional Spirit Damage. Dealing damage with your abilities builds up to a vicious bite, dealing a burst of Bonus Spirit Damage. 
+
+Love Bites has a unique cooldown per target.
 
 Cooldown 0.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -106,7 +113,9 @@ Cooldown 0.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `ability_vampirebat_batswarm`
 
-Active: Unleash a cloud of bats that seek out targets, each dealing 'SpiritDamage and applying 'Silence.Passive: Triggering Love Bites against heroes permanently increases the number of bats released.
+Active: Unleash a cloud of bats that seek out targets, each dealing Spirit Damage and applying Silence.
+
+Passive: Triggering Love Bites against heroes permanently increases the number of bats released.
 
 Cooldown 150.0s · Duration 0.0s · Range 40.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 4.6
 
@@ -117,4 +126,12 @@ Cooldown 150.0s · Duration 0.0s · Range 40.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-Mina Ha had it all...rich parents, elite education, and an arranged marriage that would see her ascend from run-of-the-mill upper class to American royalty.  She was happy.<br><br>Then her betrothed was assassinated.<br><br>Mina wept; not for the life of her fiancé, but for the future that was stolen from her.  Why couldn't the killer just wait until after the wedding? Then she'd have the last name she always dreamed of and no one would even have to pretend to love anyone.  It could have been perfect, but life wasn't fair...and so Mina did what she always does when things don't go her way: she told her parents to fix it.<br><br>Mr. And Mrs. Ha knew that the only way to appease their daughter was to offer her something greater than what she lost... and marrying into one of the world's most lauded families was a tall order to top.  They had to think big.  They had to think outside of the box.  They had to promise their daughter immortality.<br><br>It took a small fortune, but eventually they found a vampire who was willing to turn her.  Unsurprisingly, Mina thought the idea of eternal youth and a trust fund was an acceptable plan B and happily agreed to the proposal.  Now a fledgling vampire, Mina is quickly discovering that the clout she held as a human has no weight in vampire high society...and while at first that annoyed her, if there is one thing Mina has a knack for, it's learning the rules so she can subvert them.  She will be the Viscount of New York, the other vampires just don't know it yet.
+Mina Ha had it all... rich parents, elite education, and an arranged marriage that would see her ascend from run-of-the-mill upper class to American royalty. She was happy.
+
+Then her betrothed was assassinated.
+
+Mina wept; not for the life of her fiancé, but for the future that was stolen from her. Why couldn't the killer just wait until after the wedding? Then she'd have the last name she always dreamed of and no one would even have to pretend to love anyone. It could have been perfect, but life wasn't fair... and so Mina did what she always does when things don't go her way: she told her parents to fix it.
+
+Mr. And Mrs. Ha knew that the only way to appease their daughter was to offer her something greater than what she lost... and marrying into one of the world's most lauded families was a tall order to top. They had to think big. They had to think outside of the box. They had to promise their daughter immortality.
+
+It took a small fortune, but eventually they found a vampire who was willing to turn her. Unsurprisingly, Mina thought the idea of eternal youth and a trust fund was an acceptable plan B and happily agreed to the proposal. Now a fledgling vampire, Mina is quickly discovering that the clout she held as a human has no weight in vampire high society... and while at first that annoyed her, if there is one thing Mina has a knack for, it's learning the rules so she can subvert them. She will be the Viscount of New York, the other vampires just don't know it yet.

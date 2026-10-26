@@ -18,6 +18,7 @@ elightmeleedamage: 50.0
 eheavymeleedamage: 116.0
 egrounddashdistanceinmeters: 10.0
 eairdashdistanceinmeters: 8.0
+dash_speed: 14.7
 spirit_power: 0.0
 spirit_power_per_level: 1.1
 weapon_damage_per_second: 28.4
@@ -25,6 +26,8 @@ weapon_bullet_damage: 8.8
 weapon_ammo: 15.0
 weapon_bullets_per_sec: 3.23
 weapon_pellets_per_shot: 3.0
+weapon_reload_time: 2.5
+weapon_bullet_velocity: 178.0
 release_date: "October 6, 2026"
 abilities: ["Threadsap", "Granny Long Legs", "Baba's Brew", "Feed The Birds"]
 tags: [hero, released]
@@ -56,6 +59,7 @@ data_updated: 2026-10-24
 | Heavy Melee | 116.0 |
 | Dash (ground, m) | 10.0 |
 | Dash (air, m) | 8.0 |
+| Dash Speed | 14.7 m/s |
 | Spirit Power | 0.0 |
 
 ## Weapon
@@ -67,6 +71,8 @@ data_updated: 2026-10-24
 | Ammo | 15.0 |
 | Bullets per sec | 3.23 |
 | Pellets per shot | 3.0 |
+| Reload Time | 2.5 |
+| Bullet Velocity | 178.0 |
 
 ## Abilities
 
@@ -74,7 +80,9 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_baba_bubbling_brew`
 
-Weave a scraggly thread that follows your crosshair before bursting along its path, dealing 'SpiritDamage and stealing enemy 'Spirit, increased in effectiveness for Baba.While holding stolen 'Spirit, Baba deals 'BonusSpiritDamage with every bullet.
+Weave a scraggly thread that follows your crosshair before bursting along its path, dealing Spirit Damage and stealing enemy Spirit, increased in effectiveness for Baba.
+
+While holding stolen Spirit, Baba deals Bonus Spirit Damage with every bullet.
 
 Cooldown 28.0s · Duration 0.0s · Range 35.0 · Spirit Cost 0.0 · Charges 1.0 · Damage 50.0
 
@@ -82,7 +90,12 @@ Cooldown 28.0s · Duration 0.0s · Range 35.0 · Spirit Cost 0.0 · Charges 1.0 
 
 **Signature** · `ability_baba_bench_run`
 
-Your bench's legs extend, granting 'BonusMoveSpeed, higher jumps, Debuff Resistance and Melee Resistance.Light Melee: Perform a kick that knocks enemies back.Heavy Melee: Perform a ground pound that applies 'KnockUp, 'Slow, and deals 'SpiritDamage.Hold {g:citadel_binding:'Crouch to charge a high jump, release to jump.
+Your bench's legs extend, granting Bonus Move Speed, higher jumps, Debuff Resistance and Melee Resistance.
+
+Light Melee: Perform a kick that knocks enemies back.
+Heavy Melee: Perform a ground pound that applies Knock Up, Slow, and deals Spirit Damage.
+
+Hold Crouch to charge a high jump, release to jump.
 
 Cooldown 32.0s · Duration 10.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -90,7 +103,9 @@ Cooldown 32.0s · Duration 10.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `ability_baba_hexing_brew`
 
-Brew a pot of tea that applies a magical effect in an area when thrown, cycling over time between a soothing 'CombatBarrier, 'Silence, or scalding burn that deals 'SpiritDPS and reduces 'SpiritResist. Press {g:citadel_binding:'ADS to pause or resume brewing.
+Brew a pot of tea that applies a magical effect in an area when thrown, cycling over time between a soothing Combat Barrier, Silence, or scalding burn that deals Spirit DPS and reduces Spirit Resist. 
+
+Press ADS to pause or resume brewing.
 
 Cooldown 27.0s · Duration 0.0s · Range 12.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -98,7 +113,9 @@ Cooldown 27.0s · Duration 0.0s · Range 12.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `ability_baba_ultimate_2`
 
-Cover targets in front of you with bread, adding a stacking 'Slow .When the channel ends a flock of pigeons bombard the targets, dealing 'SpiritDamage and hexing each target into a pigeon, increasing in both damage and duration based on bread count.
+Cover targets in front of you with bread, adding a stacking Slow.
+
+When the channel ends a flock of pigeons bombard the targets, dealing Spirit Damage and hexing each target into a pigeon, increasing in both damage and duration based on bread count.
 
 Cooldown 150.0s · Duration 0.0s · Range 18.0 · Spirit Cost 0.0 · Charges 0.0
 

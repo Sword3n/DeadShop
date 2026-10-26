@@ -30,6 +30,7 @@ weapon_bullets_per_sec: 4.33
 weapon_reload_time: 2.91
 weapon_bullet_velocity: 660.0
 release_date: "April 24, 2024"
+voice_actor: "Eden Riegel"
 abilities: ["Stake", "Flight", "Crow Familiar", "Assassinate"]
 tags: [hero, released]
 source: https://deadlock.io/en/heroes/vindicta
@@ -107,14 +108,17 @@ Cooldown 32.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `citadel_ability_hornet_snipe`
 
-Use your scoped rifle to fire a powerful shot over long distances. Deal only partial damage until fully charged after {s:TimeToFullCharge}s of being scoped. Does bonus damage to enemies with less than {s:LowHealthEnemyThresholdPct}% health remaining. Landing a killing blow on a player with Assassinate grants you bonus weapon damage.
+Use your scoped rifle to fire a powerful shot over long distances. Deal only partial damage until fully charged after Time To Full Charge s of being scoped. Does bonus damage to enemies with less than Low Health Enemy Threshold Pct % health remaining. Landing a killing blow on a player with Assassinate grants you bonus weapon damage.
 
 Cooldown 55.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 2.0 · Damage 90.0
 
 ## Meta
 
 - **Release date:** April 24, 2024
+- **Voice actor:** Eden Riegel
 
 ## Lore
 
-A victim of John Hathorne during the Salem Witch Trials, Vindicta got a second chance of life when her spirit was brought back to the mortal plane during the first Maelstrom (the event that introduced the supernatural to the public at large).<br><br>Waging a one ghost war against "The Friends of Humanity", a neo inquisition formed by Hathorne's descendants; Vindicta looks to keep the supernatural safe from Hathorne's ilk, and she isn't afraid to stack as many bodies as needed to do it.
+A victim of John Hathorne during the Salem Witch Trials, Vindicta got a second chance of life when her spirit was brought back to the mortal plane during the first Maelstrom (the event that introduced the supernatural to the public at large).
+
+Waging a one ghost war against "The Friends of Humanity", a neo inquisition formed by Hathorne's descendants; Vindicta looks to keep the supernatural safe from Hathorne's ilk, and she isn't afraid to stack as many bodies as needed to do it.

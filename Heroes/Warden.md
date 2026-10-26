@@ -108,7 +108,8 @@ Cooldown 34.0s · Duration 0.0s · Range 15.0 · Spirit Cost 0.0 · Charges 0.0 
 
 **Ultimate** · `ability_warden_riot_protocol`
 
-After charging for {s:AbilityCastDelay}s, release pulses that damage enemies and heal you based on the damage done. While channeling Last Stand you have greatly increased bullet and spirit resist.
+After charging for Ability Cast Delay s, release pulses that damage enemies and heal you based on the damage done. 
+While channeling Last Stand you have greatly increased bullet and spirit resist.
 
 Cooldown 180.0s · Duration 6.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -119,4 +120,8 @@ Cooldown 180.0s · Duration 6.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-Most people think the supernatural came into the world 50 years ago.  They're wrong.  Its presence shaped folklore for generations... and as long as there have been people afraid of the shadows, there have been those who dedicated their lives to fighting in them.<br><br>Coming from a lineage of militant alchemists, Warden's family always trained for the day they would have to stave off a mystic apocalypse... but as time passed the importance of the lessons seemed less and less important.  What once was viewed as a sincere warning slowly morphed into being perceived as amusing anecdotes told by their superstitious grandparents.<br><br>When the portal opened in Central Park, Warden's parents realized not only was everything they were told was true, they were unprepared.  Refusing to let the next generation fall asleep on the job, Warden was trained since birth to be a supernatural killing machine with one purpose: stopping the Patrons from ever entering our world.
+Most people think the supernatural came into the world 50 years ago. They're wrong. Its presence shaped folklore for generations... and as long as there have been people afraid of the shadows, there have been those who dedicated their lives to fighting in them.
+
+Coming from a lineage of militant alchemists, Warden's family always trained for the day they would have to stave off a mystic apocalypse... but as time passed the importance of the lessons seemed less and less important. What once was viewed as a sincere warning slowly morphed into being perceived as amusing anecdotes told by their superstitious grandparents.
+
+When the portal opened in Central Park, Warden's parents realized not only was everything they were told was true, they were unprepared. Refusing to let the next generation fall asleep on the job, Warden was trained since birth to be a supernatural killing machine with one purpose: stopping the Patrons from ever entering our world.

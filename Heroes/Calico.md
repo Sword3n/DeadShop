@@ -85,7 +85,9 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_nano_clustergrenade`
 
-Throw a cluster of bombs that detonate after a delay, dealing 'SpiritDamage.Enemies hit by multiple bombs take {s:MultiHitPenaltyPercentage}% damage.
+Throw a cluster of bombs that detonate after a delay, dealing Spirit Damage.
+
+Enemies hit by multiple bombs take Multi Hit Penalty Percentage % damage.
 
 Cooldown 14.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 45.0
 
@@ -93,7 +95,9 @@ Cooldown 14.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Signature** · `ability_nano_dash`
 
-Dash forward before slashing all enemies in a circle, dealing 'MeleeDamage. If the ability hits at least one hero, 'Heal a small amount of health.
+Dash forward before slashing all enemies in a circle, dealing Melee Damage. 
+
+If the ability hits at least one hero, Heal a small amount of health.
 
 Cooldown 13.0s · Duration 0.0s · Range 9.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -101,7 +105,9 @@ Cooldown 13.0s · Duration 0.0s · Range 9.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `ability_nano_catform`
 
-Turn to shadows and possess Ava. You gain 'BonusMoveSpeed that increases over time, and become  hidden on the minimap. Taking damage from an enemy hero resets your bonus move speed and puts Ava on a brief cooldown.
+Turn to shadows and possess Ava. You gain Bonus Move Speed that increases over time, and become hidden on the minimap. 
+
+Taking damage from an enemy hero resets your bonus move speed and puts Ava on a brief cooldown.
 
 Cooldown 30.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -109,7 +115,9 @@ Cooldown 30.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `ability_nano_shadow_pulse`
 
-Instantly turn to shadows, becoming untargetable, gaining 'BonusMoveSpeed, and dealing 'SpiritDamage. After a delay, return from the shadows, dealing 'SpiritDamage again.
+Instantly turn to shadows, becoming untargetable, gaining Bonus Move Speed, and dealing Spirit Damage.
+
+ After a delay, return from the shadows, dealing Spirit Damage again.
 
 Cooldown 115.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 150.0
 
@@ -119,4 +127,6 @@ Cooldown 115.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 
 
 ## Lore
 
-Once a decorated member of The Baxter Society, Calico left the august order once she realized that killing monsters for free was less profitable than killing people for money.<br><br>Now an in demand contract killer, Calico is living her best life ending someone else's.
+Once a decorated member of The Baxter Society, Calico left the august order once she realized that killing monsters for free was less profitable than killing people for money.
+
+Now an in demand contract killer, Calico is living her best life ending someone else's.

@@ -81,7 +81,11 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_necro_hauntingskull`
 
-Passive: Collect death when anything dies nearby and store it in your Jar of Dead.Active: Throw a jar to summon Deadheads that repeatedly deal 'SpiritDamage to enemies. Deadheads follow you instead if there's no nearby enemies, and prioritize the target of your weapon.
+Passive: Collect death when anything dies nearby and store it in your Jar of Dead.
+
+Active: Throw a jar to summon Deadheads that repeatedly deal Spirit Damage to enemies. 
+
+Deadheads follow you instead if there's no nearby enemies, and prioritize the target of your weapon.
 
 Cooldown 0.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 4.0 · Damage 16.0
 
@@ -89,7 +93,9 @@ Cooldown 0.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 4.0 ·
 
 **Signature** · `ability_necro_zombiewall`
 
-Unearth a line of grasping hands, summoning a Ghoul and leaving behind a rift. Enemies who pass through take 'SpiritDamage and receive 'Immobilize.  Alt-Cast {g:citadel_binding:'AltCast rotates the orientation of the wall.
+Unearth a line of grasping hands, summoning a Ghoul and leaving behind a rift. Enemies who pass through take Spirit Damage and receive Immobilize. 
+
+Alt-Cast Alt Cast rotates the orientation of the wall.
 
 Cooldown 34.0s · Duration 5.0s · Range 24.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 90.0
 
@@ -97,7 +103,7 @@ Cooldown 34.0s · Duration 5.0s · Range 24.0 · Spirit Cost 0.0 · Charges 0.0 
 
 **Signature** · `ability_necro_fear`
 
-Your weapon steals 'WeaponDamage and 'SpiritResist over time, up to a maximum amount per target.
+Your weapon steals Weapon Damage and Spirit Resist over time, up to a maximum amount per target.
 
 Cooldown 0.0s · Duration 4.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -113,4 +119,10 @@ Cooldown 140.0s · Duration 16.0s · Range 20.0 · Spirit Cost 0.0 · Charges 0.
 
 ## Lore
 
-The daughter of high-power defense attorneys, Darcy Graves grew up in a home where every conversation was a debate, argument, or negotiation. It was exhausting. But while her parents were often too busy meeting with clients or working on cases to bond with her, the dead were always there to listen.<br><br>Graves enjoyed her time in the cemetery.  It was a quiet place to calm her thoughts and talk through her problems...but one day her one-sided conversations started to change.<br><br>It began with a faint whisper.  A woman's voice that seemed to respond to Graves' complaints.  Intrigued, the teenager listened...and followed the voice's instructions until it guided her to a lead-lined box buried in Van Cortlandt Park.  But while most high school students would freak out if they were to unearth a severed lich hand, Graves was certainly not most teens.  The hand now free of its prison, the lich's voice grew stronger... It had spent years looking to find a student she could pass her knowledge to, and Graves was eager to learn.<br><br>Now a fledgling necromancer, Darcy balances not only her homework at Blackmore Academy...but the demands of graveyard denizens, each of whom have their own unfinished business that they seek her aid in resolving.
+The daughter of high-power defense attorneys, Darcy Graves grew up in a home where every conversation was a debate, argument, or negotiation. It was exhausting. But while her parents were often too busy meeting with clients or working on cases to bond with her, the dead were always there to listen.
+
+Graves enjoyed her time in the cemetery. It was a quiet place to calm her thoughts and talk through her problems... but one day her one-sided conversations started to change.
+
+It began with a faint whisper. A woman's voice that seemed to respond to Graves' complaints. Intrigued, the teenager listened... and followed the voice's instructions until it guided her to a lead-lined box buried in Van Cortlandt Park. But while most high school students would freak out if they were to unearth a severed lich hand, Graves was certainly not most teens. The hand now free of its prison, the lich's voice grew stronger... It had spent years looking to find a student she could pass her knowledge to, and Graves was eager to learn.
+
+Now a fledgling necromancer, Darcy balances not only her homework at Blackmore Academy... but the demands of graveyard denizens, each of whom have their own unfinished business that they seek her aid in resolving.

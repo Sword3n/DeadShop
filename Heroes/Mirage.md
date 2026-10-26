@@ -108,7 +108,7 @@ Cooldown 2.75s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `mirage_teleport`
 
-Target a location on the minimap.  After a brief wait, teleport to that location.  Taking damage during the wait period causes the teleport to be interrupted.
+Target a location on the minimap. After a brief wait, teleport to that location. Taking damage during the wait period causes the teleport to be interrupted.
 
 Cooldown 140.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -119,4 +119,6 @@ Cooldown 140.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-The Djinn are one of the more curious groups of people in the modern world.  Possessing great power in controlled doses, Djinn are incapable of maintaining corporeal form for longer than 48 minutes without resting within a vessel.  As a result, most Djinn employ human bodyguards for transport, protection, and companionship.<br><br>Mirage is one such bodyguard.  Employed by Djinn ambassador Nashala Dion, Mirage is in New York on a diplomatic mission.  It's the hope of the Djinn that they can negotiate with the US government for a sale of part of Wyoming so that they can build a sovereign nation for their people.
+The Djinn are one of the more curious groups of people in the modern world. Possessing great power in controlled doses, Djinn are incapable of maintaining corporeal form for longer than 48 minutes without resting within a vessel. As a result, most Djinn employ human bodyguards for transport, protection, and companionship.
+
+Mirage is one such bodyguard. Employed by Djinn ambassador Nashala Dion, Mirage is in New York on a diplomatic mission. It's the hope of the Djinn that they can negotiate with the US government for a sale of part of Wyoming so that they can build a sovereign nation for their people.

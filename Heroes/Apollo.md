@@ -90,7 +90,10 @@ Cooldown 12.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Signature** · `ability_fencer_riposte`
 
-Prepare to deflect the next incoming attack. On a successful deflection, briefly become invulnerable and target an enemy hero to dash towards them, stunning them and reducing their Melee Resist.Press {g:citadel_binding:'Ability2 to select a target.Does not trigger against trooper or neutral damage.
+Prepare to deflect the next incoming attack. On a successful deflection, briefly become invulnerable and target an enemy hero to dash towards them, stunning them and reducing their Melee Resist.
+
+Press Ability2 to select a target.
+Does not trigger against trooper or neutral damage.
 
 Cooldown 22.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -98,7 +101,9 @@ Cooldown 22.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `ability_fencer_lunge`
 
-Perform a series of lunges in any direction, delivering piercing stabs ahead of you. Hold your ability key to time your attacks, dealing more damage the longer it's held. Releasing your attack during the perfect window deals maximum damage.Press {g:citadel_binding:'Ability3 to re-cast.
+Perform a series of lunges in any direction, delivering piercing stabs ahead of you. Hold your ability key to time your attacks, dealing more damage the longer it's held. Releasing your attack during the perfect window deals maximum damage.
+
+Press Ability3 to re-cast.
 
 Cooldown 26.0s · Duration 8.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -106,7 +111,11 @@ Cooldown 26.0s · Duration 8.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Ultimate** · `ability_fencer_ultimate`
 
-Charge up and perform a long range slash. Struck enemies cannot take action or heal and are stuck in slow motion. When this effect expires, they suffer devastating damage, dealing bonus damage against half-health enemies.While in slow motion, Apollo is invulnerable and enemies take reduced damage.Hold {g:citadel_binding:'Ability4 or {g:citadel_binding:'Attack to delay the cast.
+Charge up and perform a long range slash. Struck enemies cannot take action or heal and are stuck in slow motion. When this effect expires, they suffer devastating damage, dealing bonus damage against half-health enemies.
+
+While in slow motion, Apollo is invulnerable and enemies take reduced damage.
+
+Hold Ability4 or Attack to delay the cast.
 
 Cooldown 145.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -117,4 +126,8 @@ Cooldown 145.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 ## Lore
 
-A land of beauty, tradition and conflict; North Ixia is no stranger to brutal political violence. So when Apollo was told that it was for his own safety he was being sent to New York for school, he knew the situation was serious.<br><br>Adjusting to life at Blackmore Academy didn't come easy to Apollo. His school was supposed to be filled with The Cursed Apple's best and brightest but all he saw, with few exceptions, was a sea of aggressive mediocrity. Electing not to waste his time with frivolous things like parties and dances, he instead put his energy on the piste, where he rigorously trains as captain of the Blackmore fencing team.<br><br>However, at the end of the day Apollo does not fret too much on the tedium of life in New York. He knows that eventually the time will come when his father will call on him to come home and he will get to show that he is worthy of wielding his family's ancestral blade.
+A land of beauty, tradition and conflict; North Ixia is no stranger to brutal political violence. So when Apollo was told that it was for his own safety he was being sent to New York for school, he knew the situation was serious.
+
+Adjusting to life at Blackmore Academy didn't come easy to Apollo. His school was supposed to be filled with The Cursed Apple's best and brightest but all he saw, with few exceptions, was a sea of aggressive mediocrity. Electing not to waste his time with frivolous things like parties and dances, he instead put his energy on the piste, where he rigorously trains as captain of the Blackmore fencing team.
+
+However, at the end of the day Apollo does not fret too much on the tedium of life in New York. He knows that eventually the time will come when his father will call on him to come home and he will get to show that he is worthy of wielding his family's ancestral blade.

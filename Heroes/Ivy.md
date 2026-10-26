@@ -92,7 +92,10 @@ Cooldown 32.0s · Duration 4.0s · Range 0.0 · Spirit Cost 0.0 · Charges 1.0
 
 **Signature** · `citadel_ability_tangotether`
 
-Connect with a nearby ally to gain bonuses, replicated healing, and ignore the move speed penalty while shooting.Receive 50% of Bonuses with no connectionConnection requires line of sight.
+Connect with a nearby ally to gain bonuses, replicated healing, and ignore the move speed penalty while shooting.
+
+Receive 50% of Bonuses with no connection
+Connection requires line of sight.
 
 Cooldown 37.0s · Duration 12.0s · Range 16.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -108,7 +111,11 @@ Cooldown 40.0s · Duration 3.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Ultimate** · `citadel_ability_tengu_airlift`
 
-Grab an ally and take flight with them. Drop your ally to cause an explosion, dealing 'SpiritDamage. You and your ally gain increased Outgoing Damage when flying ends. Cooldown reduced by {s:CooldownReductionPctOnOthers}% when used on allies.Taking damage briefly disables using the ability.While lifted, your ally cannot attack and deals {s:AllyOutgoingDamagePercent}% damage.
+Grab an ally and take flight with them. Drop your ally to cause an explosion, dealing Spirit Damage. You and your ally gain increased Outgoing Damage when flying ends. 
+
+Cooldown reduced by Cooldown Reduction Pct On Others % when used on allies.
+Taking damage briefly disables using the ability.
+While lifted, your ally cannot attack and deals Ally Outgoing Damage Percent % damage.
 
 Cooldown 100.0s · Duration 21.0s · Range 22.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -119,4 +126,8 @@ Cooldown 100.0s · Duration 21.0s · Range 22.0 · Spirit Cost 0.0 · Charges 0.
 
 ## Lore
 
-The gargoyle didn't know what was happening when it sprang to life...  just that a big human and a small human were being hurt.  And so the gargoyle leapt to action, sending the attackers fleeing in horror.  The small human said thank you and asked the gargoyle's name.  The gargoyle didn't have one.  And so the small human said, "I'm going to call you Ivy."  The gargoyle, being covered in ivy at the time, thought it was a bit obvious, but decided to go along with it for the small human's sake.<br><br>The humans asked if Ivy would come home with them so they could show their appreciation, and so Ivy walked with them.  That night she learned much.  The family were called The Arroyo's.  The little one, Sophia.  Mofongo is what they called a plate of deliciousness.  But most importantly, she learned that the people attacking them were called "The Mendoza Syndicate", and they were hurting people...nice people like The Arroyo's.<br><br>18 years have passed since the day the Arroyo's took Ivy home... and during that time she made it her mission to dismantle the Mendoza Syndicate and free Spanish Harlem from its grasp.  However the thing about dedicating your life to a single pursuit for nearly 2 decades is that you don't really know what to do once you achieve it.  For the first time in her life, Ivy is prepared to venture outside of Spanish Harlem and see what the world has to offer beyond vigilante justice.
+The gargoyle didn't know what was happening when it sprang to life... just that a big human and a small human were being hurt. And so the gargoyle leapt to action, sending the attackers fleeing in horror. The small human said thank you and asked the gargoyle's name. The gargoyle didn't have one. And so the small human said, "I'm going to call you Ivy." The gargoyle, being covered in ivy at the time, thought it was a bit obvious, but decided to go along with it for the small human's sake.
+
+The humans asked if Ivy would come home with them so they could show their appreciation, and so Ivy walked with them. That night she learned much. The family were called The Arroyo's. The little one, Sophia. Mofongo is what they called a plate of deliciousness. But most importantly, she learned that the people attacking them were called "The Mendoza Syndicate", and they were hurting people... nice people like The Arroyo's.
+
+18 years have passed since the day the Arroyo's took Ivy home... and during that time she made it her mission to dismantle the Mendoza Syndicate and free Spanish Harlem from its grasp. However the thing about dedicating your life to a single pursuit for nearly 2 decades is that you don't really know what to do once you achieve it. For the first time in her life, Ivy is prepared to venture outside of Spanish Harlem and see what the world has to offer beyond vigilante justice.

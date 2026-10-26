@@ -83,7 +83,7 @@ data_updated: 2026-10-24
 
 **Signature** · `ability_charged_shot`
 
-Charge up a powerful shot that pierces through enemies. Hold {g:citadel_binding:'Ability1 or {g:citadel_binding:'Attack to hold the shot.
+Charge up a powerful shot that pierces through enemies. Hold Ability1 or Attack to hold the shot.
 
 Cooldown 17.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 1.0 · Damage 80.0
 
@@ -91,7 +91,9 @@ Cooldown 17.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 1.0 �
 
 **Signature** · `ability_power_jump`
 
-Launches you high in the air, allowing you to glide slowly. While airborne, you gain Weapon Damage and multishot on your weapon. {g:citadel_binding:'AltCastfor reduced jump height.  Press{g:citadel_binding:'Mantleto cancel the glide.
+Launches you high in the air, allowing you to glide slowly. While airborne, you gain Weapon Damage and multishot on your weapon. 
+Alt Cast for reduced jump height. 
+Press Mantle to cancel the glide.
 
 Cooldown 25.0s · Duration 4.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
@@ -99,7 +101,8 @@ Cooldown 25.0s · Duration 4.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0
 
 **Signature** · `ability_immobilize_trap`
 
-Throw out a trap that begins to arm itself. Once armed, the trap will trigger when an enemy enters its radius, applying Curse and Movement Slow that interrupts, Silences, Disarms, and prevents item usage.Hit the trap with a Charged Shot to detonate early with increased radius.
+Throw out a trap that begins to arm itself. Once armed, the trap will trigger when an enemy enters its radius, applying Curse and Movement Slow that interrupts, Silences, Disarms, and prevents item usage.
+Hit the trap with a Charged Shot to detonate early with increased radius.
 
 Cooldown 34.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 25.0
 
@@ -107,7 +110,8 @@ Cooldown 34.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 �
 
 **Ultimate** · `ability_guided_arrow`
 
-After {s:AbilityCastDelay}s cast time, launch a spirit owl that you control and which explodes on impact, damaging and stunning enemies. Hold{g:citadel_binding:'MoveForwardto accelerate the owl.Press{g:citadel_binding:'Mantleto release control. Gain permanent Spirit Power for each enemy hero killed with Guided Owl.
+After Ability Cast Delay s cast time, launch a spirit owl that you control and which explodes on impact, damaging and stunning enemies. Hold Move Forward to accelerate the owl.
+Press Mantle to release control. Gain permanent Spirit Power for each enemy hero killed with Guided Owl.
 
 Cooldown 125.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 · Damage 230.0
 
@@ -117,4 +121,12 @@ Cooldown 125.0s · Duration 0.0s · Range 0.0 · Spirit Cost 0.0 · Charges 0.0 
 
 ## Lore
 
-A founding member of "The Baxter Society", Wesley Grey Talon spent close to 40 years hunting monsters that preyed on man before finally deciding to find a replacement and lay down his bow. Grey Talon's duties had meant that he never spent much time with his wife and kid, and now that his son had started a family of his own he realized that this was his last chance to reconnect with the people he loved.<br><br>Retirement suited Wesley.  He made up for lost time with his wife.  He doted on his grandkids.  He cooked dinner for the whole family every Wednesday.  He was happy.<br><br>Then he got the call.<br><br>The authorities claimed that it was a freak accident... that the fire consumed his son's house before anyone got a chance to escape.  But Wesley knew better.  His son's wife was an Ixian who could snuff out flame with a thought.  If their bodies were found burned they had to be dead long before there was a fire.<br><br>And so Grey Talon has picked up his bow once more, and when he finds who's responsible there will be a bloody reckoning.
+A founding member of "The Baxter Society", Wesley Grey Talon spent close to 40 years hunting monsters that preyed on man before finally deciding to find a replacement and lay down his bow. Grey Talon's duties had meant that he never spent much time with his wife and kid, and now that his son had started a family of his own he realized that this was his last chance to reconnect with the people he loved.
+
+Retirement suited Wesley. He made up for lost time with his wife. He doted on his grandkids. He cooked dinner for the whole family every Wednesday. He was happy.
+
+Then he got the call.
+
+The authorities claimed that it was a freak accident... that the fire consumed his son's house before anyone got a chance to escape. But Wesley knew better. His son's wife was an Ixian who could snuff out flame with a thought. If their bodies were found burned they had to be dead long before there was a fire.
+
+And so Grey Talon has picked up his bow once more, and when he finds who's responsible there will be a bloody reckoning.
