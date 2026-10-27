@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>DeadShop</title>
+      <link>https://deadshop.app</link>
+      <description>Last 10 notes on DeadShop</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Heroes</title>
+    <link>https://deadshop.app/heroes.base</link>
+    <guid>https://deadshop.app/heroes.base</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 27 Oct 2026 21:11:56 GMT</pubDate>
+  </item><item>
+    <title>Items</title>
+    <link>https://deadshop.app/items.base</link>
+    <guid>https://deadshop.app/items.base</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 27 Oct 2026 21:11:56 GMT</pubDate>
+  </item><item>
+    <title>Database</title>
+    <link>https://deadshop.app/database/</link>
+    <guid>https://deadshop.app/database/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 27 Oct 2026 21:11:56 GMT</pubDate>
+  </item><item>
+    <title>Dataview</title>
+    <link>https://deadshop.app/dataview/</link>
+    <guid>https://deadshop.app/dataview/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 27 Oct 2026 21:11:56 GMT</pubDate>
+  </item><item>
+    <title>Guides</title>
+    <link>https://deadshop.app/guides/</link>
+    <guid>https://deadshop.app/guides/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 27 Oct 2026 21:11:56 GMT</pubDate>
+  </item><item>
+    <title>Heroes</title>
+    <link>https://deadshop.app/heroes/</link>
+    <guid>https://deadshop.app/heroes/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 27 Oct 2026 21:11:56 GMT</pubDate>
+  </item><item>
+    <title>Spirit</title>
+    <link>https://deadshop.app/items/spirit/</link>
+    <guid>https://deadshop.app/items/spirit/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 27 Oct 2026 21:11:56 GMT</pubDate>
+  </item><item>
+    <title>Items</title>
+    <link>https://deadshop.app/items/</link>
+    <guid>https://deadshop.app/items/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 27 Oct 2026 21:11:56 GMT</pubDate>
+  </item><item>
+    <title>Vitality</title>
+    <link>https://deadshop.app/items/vitality/</link>
+    <guid>https://deadshop.app/items/vitality/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 27 Oct 2026 21:11:56 GMT</pubDate>
+  </item><item>
+    <title>Weapon</title>
+    <link>https://deadshop.app/items/weapon/</link>
+    <guid>https://deadshop.app/items/weapon/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 27 Oct 2026 21:11:56 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
